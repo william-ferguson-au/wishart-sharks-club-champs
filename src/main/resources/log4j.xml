@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+
+<log4j:configuration>
+
+	<appender name="FileAppender" class="org.apache.log4j.FileAppender">
+		<param name="File" value="ClubChampionships.log"/>
+		<param name="append" value="false"/>
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%-6r %-5p %37c - %m%n"/>
+		</layout>
+	</appender>
+	
+	<appender name="ConsoleAppender" class="org.apache.log4j.ConsoleAppender">
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%-6r %-5p %37c - %m%n"/>
+		</layout>
+	</appender>
+
+<!-- 
+	Logger Declarations - specific categories of Log4j messages may be
+      directed towards specific appenders by declaring a logger.
+      Set additive to true to also receive messages in 'child' categories
+
+    <logger name="au.com.xandar.swimclub.championships.load">
+        <level value="info"/>
+    </logger>
+    <logger name="au.com.xandar.swimclub.championships.eligibility">
+        <level value="info"/>
+    </logger>
+    <logger name="au.com.xandar.swimclub.championships.calculator.EligibilityProcessorMark2">
+        <level value="debug"/>
+    </logger>
+-->
+    <logger name="au.com.xandar">
+        <level value="debug"/>
+    </logger>
+
+	<root>
+		<priority value="info" />
+		<appender-ref ref="FileAppender"/>
+		<appender-ref ref="ConsoleAppender"/>
+	</root>
+
+</log4j:configuration>

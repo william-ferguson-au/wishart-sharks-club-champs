@@ -1,0 +1,1155 @@
+Club Championships eligibility based on club-champs-eligibility-2010-02-19.csv
+
+  0 ALLEN, JARED           (11) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 7=( 0*25m+ 7*50m+ 0cr) 25mPB:29.97s First:12-Oct-07  Season:09-Oct-09  Requires 1 more swim   
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 5=( 3*25m+ 2*50m+ 0cr) 25mPB:25.79s First:16-Oct-09  Season:16-Oct-09  Requires 3 more swims  
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:21.71s First:12-Oct-07  Season:09-Oct-09                         
+
+  1 ASHCROFT, MONTANA      (11) F AssumedJoinDate: 29-Jan-2010
+Nominated [   ]   Back     100   Req(2)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:17-Nov-06  Season:29-Jan-10  Requires 1 more swim   
+Nominated [   ]   Breast   100   Req(2)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:14-Oct-05  Season:05-Feb-10  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(2)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:11-Mar-05  Season:12-Feb-10  Requires 1 more swim   
+Nominated [   ]   Free     100   Req(2)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:11-Mar-05  Season:19-Feb-10  Requires 1 more swim   
+Nominated [   ]   Back      50   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:21.10s First:11-Mar-05  Season:12-Feb-10  Requires 2 more swims  
+Nominated [   ]   Breast    50   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:22.48s First:11-Mar-05  Season:12-Feb-10  Requires 2 more swims  
+Nominated [   ]   Fly       25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:17.55s First:11-Mar-05  Season:12-Feb-10  Requires 2 more swims  
+Nominated [   ]   Free      50   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:15.96s First:11-Mar-05  Season:12-Feb-10  Requires 2 more swims  
+
+  2 BARTLETT, JACINTA      ( 6) F AssumedJoinDate: 05-Feb-2010
+Nominated [   ]   Free      25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:35.31s First:05-Feb-10  Season:05-Feb-10  Requires 2 more swims  
+
+  3 BARTLETT, MIKAYLA      ( 8) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:36.31s First:06-Nov-09  Season:06-Nov-09  Requires 2 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:28.53s First:09-Oct-09  Season:09-Oct-09                         
+
+  4 BARWICK, EMMA          ( 9) F AssumedJoinDate: 12-Feb-2010
+Nominated [   ]   IM       100   Req(2)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:12-Feb-10  Season:12-Feb-10  Requires 1 more swim   
+Nominated [   ]   Back      25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:24.67s First:12-Feb-10  Season:12-Feb-10  Requires 2 more swims  
+Nominated [   ]   Breast    25   Req(4)   Not Yet Eligible    Swims: 2=( 1*25m+ 1*50m+ 0cr) 25mPB:27.81s First:12-Feb-10  Season:12-Feb-10  Requires 2 more swims  
+Nominated [   ]   Fly       25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:23.79s First:12-Feb-10  Season:12-Feb-10  Requires 2 more swims  
+Nominated [   ]   Free      25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:19.78s First:12-Feb-10  Season:12-Feb-10  Requires 2 more swims  
+
+  5 BARWICK, OSCAR         ( 6) M AssumedJoinDate: 19-Feb-2010
+Nominated [   ]   Free      25   Req(4)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:32.57s First:19-Feb-10  Season:19-Feb-10  Requires 3 more swims  
+
+  6 BEARD, MADELINE        (14) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:02-Mar-07  Season:13-Nov-09  Requires 1 more swim   
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:27-Oct-06  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:01-Dec-06  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 5=( 5*100m+ 0cr)                    First:08-Dec-06  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:21.95s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:11=( 1*25m+10*50m+ 0cr) 25mPB:23.29s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims:10=( 3*25m+ 7*50m+ 0cr) 25mPB:20.77s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 9=( 0*25m+ 9*50m+ 0cr) 25mPB:17.84s First:11-Mar-05  Season:09-Oct-09                         
+
+  7 BEARD, OLIVIA          (10) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:20-Nov-09  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 5=( 5*100m+ 0cr)                    First:31-Oct-08  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:20-Feb-09  Season:06-Nov-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:12=( 9*25m+ 3*50m+ 0cr) 25mPB:22.66s First:11-Nov-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:13=( 1*25m+12*50m+ 0cr) 25mPB:25.50s First:14-Oct-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 9=( 5*25m+ 4*50m+ 0cr) 25mPB:21.55s First:24-Feb-06  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:11=( 1*25m+10*50m+ 0cr) 25mPB:18.40s First:30-Sep-05  Season:09-Oct-09                         
+
+  8 BELL, EMMA             ( 9) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:27-Feb-09  Season:16-Oct-09  Requires 1 more swim   
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:06-Feb-09  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:13-Mar-09  Season:12-Feb-10  Requires 2 more swims  
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:20-Mar-09  Season:09-Oct-09                         
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 8=( 1*25m+ 7*50m+ 0cr) 25mPB:26.39s First:10-Nov-06  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 9=( 5*25m+ 4*50m+ 0cr) 25mPB:28.95s First:13-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:25.89s First:20-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 9=( 1*25m+ 8*50m+ 0cr) 25mPB:21.63s First:03-Feb-06  Season:09-Oct-09                         
+
+  9 BELL, LISA             (12) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(2)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:29-Jan-10  Season:29-Jan-10  Requires 1 more swim   
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:27-Oct-06  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:31-Oct-08  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:10-Nov-06  Season:04-Dec-09  Requires 1 more swim   
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 9=( 0*25m+ 9*50m+ 0cr) 25mPB:22.73s First:28-Oct-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:25.62s First:30-Sep-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims: 8=( 2*25m+ 6*50m+ 0cr) 25mPB:21.67s First:04-Nov-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:19.07s First:30-Sep-05  Season:09-Oct-09                         
+
+ 10 BENGTSON, NATHANIEL    (10) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:27-Nov-09  Season:27-Nov-09  Requires 2 more swims  
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:37.62s First:28-Nov-08  Season:13-Nov-09  Requires 2 more swims  Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:30.01s First:31-Oct-08  Season:09-Oct-09                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:33.47s First:28-Nov-08  Season:20-Nov-09  Requires 4 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:24.49s First:31-Oct-08  Season:09-Oct-09                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+ 11 BENNETT, RYLEIGH       (11) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:21-Nov-08  Season:23-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:10=( 8*25m+ 2*50m+ 0cr) 25mPB:24.96s First:02-Nov-07  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:26.68s First:12-Oct-07  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:23.50s First:19-Oct-07  Season:16-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 2*25m+ 8*50m+ 0cr) 25mPB:19.57s First:12-Oct-07  Season:09-Oct-09                         
+
+ 12 BLANCHFIELD, JACK      (11) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:30-Jan-09  Season:13-Nov-09  Requires 2 more swims  
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:06-Mar-09  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:31-Oct-08  Season:30-Oct-09  Requires 2 more swims  
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:20-Feb-09  Season:09-Oct-09  Requires 1 more swim   
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:25.92s First:30-Sep-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:27.18s First:04-Nov-05  Season:09-Oct-09  Requires 2 more swims  
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:24.99s First:27-Oct-06  Season:20-Nov-09  Requires 6 more swims  
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 8=( 1*25m+ 7*50m+ 0cr) 25mPB:19.05s First:30-Sep-05  Season:09-Oct-09                         
+
+ 13 BLANCHFIELD, MADELINE  (13) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Eligible            Swims: 5=( 5*100m+ 0cr)                    First:30-Jan-09  Season:16-Oct-09                         
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 5=( 5*100m+ 0cr)                    First:24-Nov-06  Season:16-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:01-Dec-06  Season:30-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 5=( 5*100m+ 0cr)                    First:25-Nov-05  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 7=( 0*25m+ 7*50m+ 0cr) 25mPB:22.17s First:14-Oct-05  Season:09-Oct-09  Requires 1 more swim   
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 7=( 0*25m+ 7*50m+ 0cr) 25mPB:22.65s First:30-Sep-05  Season:09-Oct-09  Requires 1 more swim   
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:19.59s First:27-Oct-06  Season:13-Nov-09  Requires 7 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:18.57s First:30-Sep-05  Season:09-Oct-09                         
+
+ 14 BOOTH, ANDREW          (13) M AssumedJoinDate: 06-Nov-2009
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:27-Oct-06  Season:27-Nov-09  Requires 1 more swim   
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:10-Mar-06  Season:06-Nov-09                         
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 5=( 0*25m+ 5*50m+ 0cr) 25mPB:18.64s First:11-Mar-05  Season:06-Nov-09  Requires 3 more swims  
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 5=( 0*25m+ 5*50m+ 0cr) 25mPB:19.71s First:11-Mar-05  Season:06-Nov-09  Requires 3 more swims  
+Nominated [   ]   Fly       50   Req(8)   Not Yet Eligible    Swims: 5=( 0*25m+ 5*50m+ 0cr) 25mPB:17.56s First:11-Mar-05  Season:06-Nov-09  Requires 3 more swims  
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 4=( 0*25m+ 4*50m+ 0cr) 25mPB:15.46s First:11-Mar-05  Season:06-Nov-09  Requires 4 more swims  
+
+ 15 BOOTH, BENJAMIN        ( 7) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:25.98s First:28-Nov-08  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:35.18s First:28-Nov-08  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:31.50s First:16-Oct-09  Season:16-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:25.91s First:01-Feb-08  Season:09-Oct-09                         
+
+ 16 BOOTH, NATHAN          (15) M AssumedJoinDate: 06-Nov-2009
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 2=( 0*25m+ 2*50m+ 0cr) 25mPB:17.11s First:11-Mar-05  Season:06-Nov-09  Requires 6 more swims  
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 2=( 0*25m+ 2*50m+ 0cr) 25mPB:19.81s First:11-Mar-05  Season:06-Nov-09  Requires 6 more swims  
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 2=( 0*25m+ 2*50m+ 0cr) 25mPB:15.95s First:11-Mar-05  Season:06-Nov-09  Requires 6 more swims  
+
+ 17 BROMLEY, ALEX          (12) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:30-Jan-09  Season:16-Oct-09                         
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:23-Nov-07  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:02-Nov-07  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:10-Nov-06  Season:06-Nov-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:23.03s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:28.09s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims: 8=( 5*25m+ 3*50m+ 0cr) 25mPB:20.98s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:21.17s First:11-Mar-05  Season:09-Oct-09                         
+
+ 18 BROMLEY, DILLON        (16) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:29-Feb-08  Season:13-Nov-09                         
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:24-Feb-06  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 5=( 5*100m+ 0cr)                    First:11-Mar-05  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:18.24s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:21.43s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:14.87s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 9=( 0*25m+ 9*50m+ 0cr) 25mPB:14.33s First:11-Mar-05  Season:09-Oct-09                         
+
+ 19 BROMLEY, EMMELIE       (14) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Eligible            Swims: 6=( 6*100m+ 0cr)                    First:16-Oct-09  Season:16-Oct-09                         
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:24-Feb-06  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:24-Feb-06  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 6=( 6*100m+ 0cr)                    First:10-Feb-06  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 9=( 0*25m+ 9*50m+ 0cr) 25mPB:21.59s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:25.35s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims: 9=( 1*25m+ 8*50m+ 0cr) 25mPB:16.23s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 9=( 0*25m+ 9*50m+ 0cr) 25mPB:16.94s First:11-Mar-05  Season:16-Oct-09                         
+
+ 20 BROWN, ZOE             (14) F AssumedJoinDate: 30-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:23-Nov-07  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:20.52s First:19-Oct-07  Season:30-Oct-09  Requires 2 more swims  
+Nominated [   ]   Fly       50   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:19.14s First:07-Dec-07  Season:20-Nov-09  Requires 7 more swims  
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 2=( 0*25m+ 2*50m+ 0cr) 25mPB:16.60s First:19-Oct-07  Season:29-Jan-10  Requires 6 more swims  
+
+ 21 BURNETT, EMMA          (13) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:30-Nov-07  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:09-Nov-07  Season:04-Dec-09  Requires 2 more swims  
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:12=( 0*25m+12*50m+ 0cr) 25mPB:22.29s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:12=( 0*25m+12*50m+ 0cr) 25mPB:25.74s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims:10=( 1*25m+ 9*50m+ 0cr) 25mPB:17.77s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:12=( 0*25m+12*50m+ 0cr) 25mPB:18.37s First:11-Mar-05  Season:09-Oct-09                         
+
+ 22 BUTCHER, THOMAS        (11) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:23-Oct-09  Season:23-Oct-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:27-Nov-09  Season:27-Nov-09  Requires 1 more swim   
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:06-Nov-09  Season:06-Nov-09  Requires 1 more swim   
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:29.92s First:17-Oct-08  Season:09-Oct-09                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:30.23s First:10-Oct-08  Season:09-Oct-09                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 8=( 6*25m+ 2*50m+ 0cr) 25mPB:27.04s First:21-Nov-08  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:26.91s First:10-Oct-08  Season:09-Oct-09                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+ 23 CALLAN, NOAH           ( 7) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:32.69s First:31-Oct-08  Season:16-Oct-09  Requires 5 more swims  
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:30.37s First:05-Dec-08  Season:16-Oct-09  Requires 4 more swims  
+Nominated [   ]   Fly       25   Req(4)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:35.01s First:12-Feb-10  Season:12-Feb-10  Requires 3 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:28.29s First:17-Oct-08  Season:09-Oct-09  Requires 3 more swims  
+
+ 24 CALLAN, WILL           ( 7) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:34.18s First:24-Oct-08  Season:12-Feb-10  Requires 7 more swims  
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:32.85s First:30-Jan-09  Season:16-Oct-09  Requires 3 more swims  
+Nominated [   ]   Fly       25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:37.98s First:05-Feb-10  Season:05-Feb-10  Requires 2 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:23.01s First:17-Oct-08  Season:09-Oct-09                         
+
+ 25 CAMPBELL, ANNE         ( 8) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:20-Mar-09  Season:09-Oct-09  Requires 2 more swims  
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:30.43s First:23-Feb-07  Season:09-Oct-09  Requires 6 more swims  
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:33.86s First:31-Oct-08  Season:16-Oct-09  Requires 5 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:25.77s First:23-Feb-07  Season:09-Oct-09  Requires 4 more swims  
+
+ 26 CARTER, AINSLEY        (11) F AssumedJoinDate: 12-Feb-2010
+Nominated [   ]   Back      25   Req(4)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:37.39s First:12-Feb-10  Season:12-Feb-10  Requires 3 more swims  Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(4)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:29.00s First:12-Feb-10  Season:12-Feb-10  Requires 3 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Free      25   Req(4)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:20.93s First:12-Feb-10  Season:12-Feb-10  Requires 3 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+
+ 27 CARTER, SEAN           (10) M AssumedJoinDate: 05-Feb-2010
+Nominated [   ]   Back      25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:32.83s First:05-Feb-10  Season:05-Feb-10  Requires 2 more swims  Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    50   Req(4)   Not Yet Eligible    Swims: 2=( 1*25m+ 1*50m+ 0cr) 25mPB:28.84s First:05-Feb-10  Season:05-Feb-10  Requires 2 more swims  
+Nominated [   ]   Free      25   Req(4)   Not Yet Eligible    Swims: 2=( 1*25m+ 1*50m+ 0cr) 25mPB:25.07s First:05-Feb-10  Season:05-Feb-10  Requires 2 more swims  Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+ 28 CHECKLEY, KALEB        ( 8) M AssumedJoinDate: 16-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 6=( 5*25m+ 1*50m+ 0cr) 25mPB:32.02s First:24-Oct-08  Season:23-Oct-09  Requires 2 more swims  
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:32.61s First:16-Oct-09  Season:16-Oct-09  Requires 2 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 7=( 5*25m+ 2*50m+ 0cr) 25mPB:26.83s First:24-Oct-08  Season:16-Oct-09  Requires 1 more swim   
+
+ 29 CHECKLEY, YASMIN       ( 5) F AssumedJoinDate: 05-Feb-2010
+Nominated [   ]   Back      25   Req(4)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:58.46s First:05-Feb-10  Season:05-Feb-10  Requires 1 more swim   
+Nominated [   ]   Free      25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:57.00s First:05-Feb-10  Season:05-Feb-10  Requires 2 more swims  
+
+ 30 CHINN, JULIAN          (13) M AssumedJoinDate: 30-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:17-Mar-06  Season:06-Nov-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:01-Dec-06  Season:30-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:10-Mar-06  Season:30-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 5=( 0*25m+ 5*50m+ 0cr) 25mPB:17.07s First:11-Mar-05  Season:30-Oct-09  Requires 3 more swims  
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 7=( 0*25m+ 7*50m+ 0cr) 25mPB:23.30s First:11-Mar-05  Season:30-Oct-09  Requires 1 more swim   
+Nominated [   ]   Fly       50   Req(8)   Not Yet Eligible    Swims: 7=( 0*25m+ 7*50m+ 0cr) 25mPB:16.80s First:11-Mar-05  Season:30-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 5=( 0*25m+ 5*50m+ 0cr) 25mPB:14.60s First:11-Mar-05  Season:06-Nov-09  Requires 3 more swims  
+
+ 31 CHINN, MADDISON        (10) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(2)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:05-Feb-10  Season:05-Feb-10  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:02-Nov-07  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:10-Nov-06  Season:06-Nov-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 9=( 4*25m+ 5*50m+ 0cr) 25mPB:25.44s First:21-Oct-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 9=( 0*25m+ 9*50m+ 0cr) 25mPB:27.82s First:11-Mar-05  Season:16-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 7=( 5*25m+ 2*50m+ 0cr) 25mPB:21.98s First:21-Oct-05  Season:16-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:20.48s First:11-Mar-05  Season:09-Oct-09                         
+
+ 32 CHINN, TAYLOR          (10) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(2)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:05-Feb-10  Season:05-Feb-10  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:16-Feb-07  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:10-Nov-06  Season:06-Nov-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 9=( 4*25m+ 5*50m+ 0cr) 25mPB:23.67s First:21-Oct-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:26.30s First:11-Mar-05  Season:16-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 9=( 5*25m+ 4*50m+ 0cr) 25mPB:22.11s First:21-Oct-05  Season:16-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:20.61s First:11-Mar-05  Season:09-Oct-09                         
+
+ 33 CLARKE, ISAAC          ( 6) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:13-Nov-09  Season:13-Nov-09  Requires 1 more swim   
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:20-Nov-09  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:30-Oct-09  Season:30-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:06-Nov-09  Season:06-Nov-09                         
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:35.90s First:27-Feb-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:37.06s First:10-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:39.33s First:16-Oct-09  Season:16-Oct-09  Requires 3 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:27.93s First:17-Oct-08  Season:09-Oct-09                         
+
+ 34 CLARKE, JACKSON        ( 6) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:13-Nov-09  Season:13-Nov-09  Requires 2 more swims  
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:20-Nov-09  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:30-Oct-09  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:06-Nov-09  Season:06-Nov-09                         
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:34.93s First:27-Feb-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:13=(13*25m+ 0*50m+ 0cr) 25mPB:38.58s First:10-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:32.96s First:24-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:13=(13*25m+ 0*50m+ 0cr) 25mPB:28.00s First:10-Oct-08  Season:09-Oct-09                         
+
+ 35 CLEMENT, JORDAN        ( 5) M AssumedJoinDate: 29-Jan-2010
+Nominated [   ]   Back      25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:31.42s First:12-Feb-10  Season:12-Feb-10  Requires 2 more swims  
+Nominated [   ]   Free      25   Req(4)   Eligible            Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:28.89s First:29-Jan-10  Season:29-Jan-10                         
+
+ 36 CRAMP-CHURCH, WENONA   (11) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:24-Oct-08  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:28-Nov-08  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:04-Dec-09  Season:04-Dec-09  Requires 1 more swim   
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:24.43s First:02-Nov-07  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 9=( 0*25m+ 9*50m+ 0cr) 25mPB:24.33s First:02-Nov-07  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:10=( 8*25m+ 2*50m+ 0cr) 25mPB:22.46s First:02-Nov-07  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:19.70s First:02-Nov-07  Season:09-Oct-09                         
+
+ 37 CREANEY, JESSICA       ( 9) F AssumedJoinDate: 06-Nov-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:31.98s First:06-Nov-09  Season:06-Nov-09  Requires 4 more swims  
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:45.50s First:06-Mar-09  Season:06-Nov-09  Requires 4 more swims  
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:49.13s First:20-Nov-09  Season:20-Nov-09  Requires 7 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:27.52s First:06-Mar-09  Season:06-Nov-09  Requires 4 more swims  
+
+ 38 CROSS, JACINTA         (10) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:12=(10*25m+ 2*50m+ 0cr) 25mPB:28.87s First:17-Oct-08  Season:09-Oct-09                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:12=( 9*25m+ 3*50m+ 0cr) 25mPB:30.90s First:14-Nov-08  Season:09-Oct-09                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:30.52s First:23-Oct-09  Season:23-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:11=( 6*25m+ 5*50m+ 0cr) 25mPB:22.43s First:10-Oct-08  Season:09-Oct-09                         
+
+ 39 CROSS, MIKAYLA         ( 6) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:38.35s First:16-Oct-09  Season:16-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:13=(13*25m+ 0*50m+ 0cr) 25mPB:30.59s First:09-Oct-09  Season:09-Oct-09                         
+
+ 40 DALY, BRIAHNA          (13) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:19-Oct-07  Season:16-Oct-09  Requires 1 more swim   
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:09-Feb-07  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:26-Oct-07  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:08-Dec-06  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:10=( 1*25m+ 9*50m+ 0cr) 25mPB:21.04s First:14-Oct-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:10=( 1*25m+ 9*50m+ 0cr) 25mPB:22.80s First:14-Oct-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims: 8=( 1*25m+ 7*50m+ 0cr) 25mPB:19.45s First:14-Oct-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 1*25m+ 9*50m+ 0cr) 25mPB:17.08s First:14-Oct-05  Season:09-Oct-09                         
+
+ 41 DALY, LACHLAN          (10) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(2)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:29-Jan-10  Season:29-Jan-10  Requires 1 more swim   
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:21-Nov-08  Season:20-Nov-09  Requires 2 more swims  
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:31-Oct-08  Season:27-Nov-09  Requires 2 more swims  
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 9=( 1*25m+ 8*50m+ 0cr) 25mPB:24.00s First:02-Feb-07  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 8=( 1*25m+ 7*50m+ 0cr) 25mPB:25.60s First:27-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 8=( 1*25m+ 7*50m+ 0cr) 25mPB:21.04s First:10-Nov-06  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 8=( 1*25m+ 7*50m+ 0cr) 25mPB:19.73s First:10-Mar-06  Season:09-Oct-09                         
+
+ 42 DAUNT, CALEB           (11) M AssumedJoinDate: 30-Oct-2009
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 2=( 0*25m+ 2*50m+ 0cr) 25mPB:23.96s First:13-Oct-06  Season:30-Oct-09  Requires 6 more swims  
+
+ 43 DAUNT, ELI             ( 9) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:21-Nov-08  Season:23-Oct-09                         
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:25.41s First:27-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:13=( 9*25m+ 4*50m+ 0cr) 25mPB:23.66s First:02-Feb-07  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:25.36s First:26-Oct-07  Season:16-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=(11*25m+ 1*50m+ 0cr) 25mPB:18.59s First:20-Oct-06  Season:09-Oct-09                         
+
+ 44 DAVIS, BLAKE           ( 7) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:36.95s First:13-Nov-09  Season:13-Nov-09  Requires 4 more swims  
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:37.02s First:30-Jan-09  Season:13-Nov-09  Requires 2 more swims  
+Nominated [   ]   Fly       25   Req(4)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:29.64s First:12-Feb-10  Season:12-Feb-10  Requires 3 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:25.86s First:17-Oct-08  Season:09-Oct-09                         
+
+ 45 DAVIS, JASMINE         (10) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:29.30s First:09-Oct-09  Season:09-Oct-09                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:28.83s First:10-Oct-08  Season:09-Oct-09                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Fly       25   Req(4)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:29.21s First:12-Feb-10  Season:12-Feb-10  Requires 3 more swims  
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 9=( 8*25m+ 1*50m+ 0cr) 25mPB:21.45s First:10-Oct-08  Season:09-Oct-09                         
+
+ 46 DE BARITAULT, EMILIA   ( 7) F AssumedJoinDate: 16-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:44.02s First:06-Mar-09  Season:16-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:48.07s First:16-Oct-09  Season:16-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:32.66s First:30-Jan-09  Season:16-Oct-09                         
+
+ 47 DE BARITAULT, GABRIELLE ( 9) F AssumedJoinDate: 16-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:39.54s First:06-Feb-09  Season:16-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:39.88s First:16-Oct-09  Season:16-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:31.98s First:30-Jan-09  Season:16-Oct-09                         
+
+ 48 DENNY, BRANDON         (11) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:05-Dec-08  Season:09-Oct-09  Requires 2 more swims  
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 5=( 0*25m+ 5*50m+ 0cr) 25mPB:24.81s First:26-Oct-07  Season:09-Oct-09  Requires 3 more swims  
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:26.98s First:12-Oct-07  Season:09-Oct-09  Requires 2 more swims  
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:21.86s First:07-Mar-08  Season:09-Oct-09  Requires 4 more swims  
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:17.52s First:12-Oct-07  Season:09-Oct-09  Requires 2 more swims  
+
+ 49 DI BELLA, ADRIANA      ( 6) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:42.04s First:09-Oct-09  Season:09-Oct-09  Requires 7 more swims  
+
+ 50 DI BELLA, GABRIELLA    ( 9) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:28.29s First:09-Oct-09  Season:09-Oct-09  Requires 2 more swims  
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:34.11s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:25.55s First:09-Oct-09  Season:09-Oct-09                         
+
+ 51 EADIE, NICK            ( 9) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:33.95s First:20-Nov-09  Season:20-Nov-09  Requires 7 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:25.56s First:09-Oct-09  Season:09-Oct-09  Requires 3 more swims  
+
+ 52 FENN, CHANTELLE        (13) F AssumedJoinDate: 23-Oct-2009
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:21.83s First:30-Jan-09  Season:23-Oct-09  Requires 2 more swims  
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:16.86s First:30-Jan-09  Season:23-Oct-09  Requires 2 more swims  
+
+ 53 FERGUSON, DARIA        (10) F AssumedJoinDate: 16-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:27.70s First:26-Oct-07  Season:06-Nov-09  Requires 7 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:28.71s First:12-Oct-07  Season:06-Nov-09  Requires 6 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:25.37s First:02-Nov-07  Season:04-Dec-09  Requires 6 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:22.50s First:11-Mar-05  Season:16-Oct-09  Requires 6 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+
+ 54 FERGUSON, XANTHE       (12) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:27-Oct-06  Season:23-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:26.72s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 7=( 0*25m+ 7*50m+ 0cr) 25mPB:26.36s First:11-Mar-05  Season:09-Oct-09  Requires 1 more swim   
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:28.67s First:30-Sep-05  Season:09-Oct-09  Requires 2 more swims  Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:22.87s First:11-Mar-05  Season:09-Oct-09                         
+
+ 55 FORD, SAMANTHA         (11) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:26.94s First:28-Nov-08  Season:09-Oct-09                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:30.46s First:31-Oct-08  Season:09-Oct-09                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:25.65s First:16-Oct-09  Season:16-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:22.97s First:31-Oct-08  Season:09-Oct-09                         
+
+ 56 FUKUSHIGE, JOSHUA      ( 8) M AssumedJoinDate: 13-Nov-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:29.66s First:13-Nov-09  Season:13-Nov-09  Requires 3 more swims  
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:30.22s First:13-Nov-09  Season:13-Nov-09  Requires 3 more swims  
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:47.20s First:27-Nov-09  Season:27-Nov-09  Requires 7 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:27.29s First:13-Nov-09  Season:13-Nov-09  Requires 3 more swims  
+
+ 57 FUKUSHIGE, MATTHEW     ( 6) M AssumedJoinDate: 13-Nov-2009
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:45.18s First:27-Nov-09  Season:27-Nov-09  Requires 2 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 7=( 7*25m+ 0*50m+ 0cr) 25mPB:39.72s First:13-Nov-09  Season:13-Nov-09  Requires 1 more swim   
+
+ 58 GALLAGHER, DANIEL      ( 7) M AssumedJoinDate: 23-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:38.99s First:23-Oct-09  Season:23-Oct-09                         
+Nominated [   ]   Breast    25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:47.13s First:12-Feb-10  Season:12-Feb-10  Requires 2 more swims  
+Nominated [   ]   Fly       25   Req(4)   Eligible            Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:36.89s First:29-Jan-10  Season:29-Jan-10                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:27.46s First:23-Oct-09  Season:23-Oct-09                         
+
+ 59 GALLAGHER, ELISE       (11) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:20-Nov-09  Season:20-Nov-09  Requires 2 more swims  
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:30-Oct-09  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:06-Nov-09  Season:06-Nov-09  Requires 1 more swim   
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:10=( 1*25m+ 9*50m+ 0cr) 25mPB:24.16s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 9=( 1*25m+ 8*50m+ 0cr) 25mPB:27.66s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 7=( 4*25m+ 3*50m+ 0cr) 25mPB:22.11s First:23-Oct-09  Season:23-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 9=( 1*25m+ 8*50m+ 0cr) 25mPB:18.58s First:09-Oct-09  Season:09-Oct-09                         
+
+ 60 GOEPEL, BRODAN         (10) M AssumedJoinDate: 05-Feb-2010
+Nominated [   ]   Back      25   Req(4)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:30.86s First:05-Feb-10  Season:05-Feb-10  Requires 1 more swim   Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(4)   Not Yet Eligible    Swims: 3=( 1*25m+ 2*50m+ 0cr) 25mPB:30.17s First:05-Feb-10  Season:05-Feb-10  Requires 1 more swim   Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Free      50   Req(4)   Not Yet Eligible    Swims: 3=( 1*25m+ 2*50m+ 0cr) 25mPB:22.43s First:05-Feb-10  Season:05-Feb-10  Requires 1 more swim   
+
+ 61 GOEPEL, KURTIS         (12) M AssumedJoinDate: 05-Feb-2010
+Nominated [   ]   Back      25   Req(4)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:28.24s First:05-Feb-10  Season:05-Feb-10  Requires 3 more swims  Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    50   Req(4)   Not Yet Eligible    Swims: 3=( 1*25m+ 2*50m+ 0cr) 25mPB:25.91s First:05-Feb-10  Season:05-Feb-10  Requires 1 more swim   
+Nominated [   ]   Free      50   Req(4)   Not Yet Eligible    Swims: 3=( 1*25m+ 2*50m+ 0cr) 25mPB:19.76s First:05-Feb-10  Season:05-Feb-10  Requires 1 more swim   
+
+ 62 GREGG, CALLAN          ( 8) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast    25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:34.22s First:29-Jan-10  Season:29-Jan-10  Requires 2 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:33.62s First:09-Oct-09  Season:09-Oct-09  Requires 2 more swims  
+
+ 63 GREGG, ELEANOR         (12) F AssumedJoinDate: 30-Oct-2009
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:26.32s First:30-Oct-09  Season:30-Oct-09  Requires 6 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:19.87s First:30-Oct-09  Season:30-Oct-09  Requires 5 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+
+ 64 HANNAM, MERCEDES       ( 6) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:33.57s First:09-Nov-07  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:44.26s First:29-Feb-08  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:37.05s First:06-Feb-09  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:31.20s First:08-Feb-08  Season:09-Oct-09                         
+
+ 65 HANNAM, SOLOMON        ( 8) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:29-Feb-08  Season:16-Oct-09                         
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:08-Feb-08  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:31-Oct-08  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:22-Feb-08  Season:09-Oct-09  Requires 2 more swims  
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:28.27s First:12-Oct-07  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:31.30s First:02-Nov-07  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:27.63s First:16-Nov-07  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:10=( 6*25m+ 4*50m+ 0cr) 25mPB:22.25s First:12-Oct-07  Season:09-Oct-09                         
+
+ 66 HENDERSON, MICHELLE    (15) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 1=( 0*25m+ 1*50m+ 0cr) 25mPB:25.22s First:16-Nov-07  Season:09-Oct-09  Requires 7 more swims  
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 9=( 0*25m+ 9*50m+ 0cr) 25mPB:26.54s First:02-Feb-07  Season:16-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:23.35s First:23-Feb-07  Season:23-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:20.31s First:02-Feb-07  Season:09-Oct-09                         
+
+ 67 HUSSIE, EMILY          (10) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:20-Nov-09  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:13-Mar-09  Season:23-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:11=(10*25m+ 1*50m+ 0cr) 25mPB:21.39s First:12-Oct-07  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:12=( 1*25m+11*50m+ 0cr) 25mPB:23.86s First:12-Oct-07  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:19.18s First:22-Feb-08  Season:16-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:12=( 2*25m+10*50m+ 0cr) 25mPB:17.39s First:12-Oct-07  Season:09-Oct-09                         
+
+ 68 HUSSIE, SARAH          (12) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 5=( 5*100m+ 0cr)                    First:01-Dec-06  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:06-Nov-09  Season:06-Nov-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:11=( 1*25m+10*50m+ 0cr) 25mPB:21.52s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:13=( 1*25m+12*50m+ 0cr) 25mPB:23.48s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims:10=( 1*25m+ 9*50m+ 0cr) 25mPB:18.44s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:11=( 1*25m+10*50m+ 0cr) 25mPB:16.63s First:11-Mar-05  Season:09-Oct-09                         
+
+ 69 I'IGA, CLAUDIA         ( 5) F AssumedJoinDate: 23-Oct-2009
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:25.03s First:23-Oct-09  Season:23-Oct-09                         
+
+ 70 JASINOWICZ, OSCAR      ( 8) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:20-Nov-09  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:30-Oct-09  Season:30-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 8=( 4*25m+ 4*50m+ 0cr) 25mPB:25.08s First:10-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 7=( 7*25m+ 0*50m+ 0cr) 25mPB:28.04s First:10-Oct-08  Season:09-Oct-09  Requires 1 more swim   
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:25.62s First:13-Feb-09  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 9=( 4*25m+ 5*50m+ 0cr) 25mPB:19.76s First:10-Oct-08  Season:09-Oct-09                         
+
+ 71 JEFFREY, TOM           ( 8) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:28.29s First:23-Oct-09  Season:23-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:31.44s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 7=( 7*25m+ 0*50m+ 0cr) 25mPB:32.59s First:23-Oct-09  Season:23-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:24.02s First:09-Oct-09  Season:09-Oct-09                         
+
+ 72 JONES, ANNABELLE       ( 7) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:30.39s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:35.15s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:34.82s First:04-Dec-09  Season:04-Dec-09  Requires 4 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:24.00s First:09-Oct-09  Season:09-Oct-09                         
+
+ 73 KEARNEY, JORDYN        ( 8) F AssumedJoinDate: 20-Nov-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:38.48s First:20-Nov-09  Season:20-Nov-09  Requires 4 more swims  
+Nominated [   ]   Breast    25   Req(4)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:38.27s First:19-Feb-10  Season:19-Feb-10  Requires 3 more swims  
+
+ 74 KEARNEY, KAI           (10) M AssumedJoinDate: 23-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:29.74s First:24-Oct-08  Season:30-Oct-09  Requires 2 more swims  Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 7=( 2*25m+ 5*50m+ 0cr) 25mPB:30.19s First:17-Oct-08  Season:30-Oct-09  Requires 1 more swim   Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 8=( 3*25m+ 5*50m+ 0cr) 25mPB:21.23s First:10-Oct-08  Season:23-Oct-09                         
+
+ 75 KING, JAMES            ( 9) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:06-Nov-09  Season:06-Nov-09  Requires 2 more swims  
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:28.84s First:20-Feb-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:30.85s First:19-Oct-07  Season:23-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 7=( 7*25m+ 0*50m+ 0cr) 25mPB:26.51s First:09-Nov-07  Season:23-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 9=( 8*25m+ 1*50m+ 0cr) 25mPB:20.83s First:12-Oct-07  Season:09-Oct-09                         
+
+ 76 KING, LARA             ( 7) F AssumedJoinDate: 29-Jan-2010
+Nominated [   ]   Breast    25   Req(4)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:37.79s First:29-Jan-10  Season:29-Jan-10  Requires 1 more swim   
+Nominated [   ]   Free      25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:32.00s First:05-Feb-10  Season:05-Feb-10  Requires 2 more swims  
+
+ 77 KRONENBERG, GRACE      ( 8) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:29.13s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:31.25s First:16-Oct-09  Season:16-Oct-09                         
+Nominated [   ]   Fly       25   Req(4)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:35.99s First:12-Feb-10  Season:12-Feb-10  Requires 3 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:26.37s First:09-Oct-09  Season:09-Oct-09                         
+
+ 78 KWIK, ALANA            ( 7) F AssumedJoinDate: 20-Nov-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 7=( 7*25m+ 0*50m+ 0cr) 25mPB:52.67s First:20-Nov-09  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   Free      25   Req(4)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:54.76s First:05-Feb-10  Season:05-Feb-10  Requires 1 more swim   
+
+ 79 KWIK, CODY             (11) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:13=( 9*25m+ 4*50m+ 0cr) 25mPB:27.29s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:13=( 9*25m+ 4*50m+ 0cr) 25mPB:30.25s First:09-Oct-09  Season:09-Oct-09                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:28.73s First:23-Oct-09  Season:23-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:13=( 9*25m+ 4*50m+ 0cr) 25mPB:24.58s First:09-Oct-09  Season:09-Oct-09                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+ 80 KWIK, JESSICA          ( 8) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:36.08s First:23-Oct-09  Season:23-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:36.42s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:31.59s First:09-Oct-09  Season:09-Oct-09                         
+
+ 81 LACEY, DANIEL          (12) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:27-Nov-09  Season:27-Nov-09  Requires 2 more swims  
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:20-Feb-09  Season:06-Nov-09  Requires 1 more swim   
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:22.62s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:26.00s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:23.70s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:17.71s First:11-Mar-05  Season:09-Oct-09                         
+
+ 82 LACEY, RACHEL          (16) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 1=( 0*25m+ 1*50m+ 0cr) 25mPB:24.64s First:11-Mar-05  Season:23-Oct-09  Requires 7 more swims  
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:24.63s First:11-Mar-05  Season:23-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:19.29s First:11-Mar-05  Season:09-Oct-09                         
+
+ 83 LINNANE, JOSHUA        (11) M AssumedJoinDate: 16-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:24.59s First:16-Oct-09  Season:16-Oct-09                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:12=( 4*25m+ 8*50m+ 0cr) 25mPB:29.90s First:16-Oct-09  Season:16-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:12=( 5*25m+ 7*50m+ 0cr) 25mPB:21.95s First:16-Oct-09  Season:16-Oct-09                         
+
+ 84 LINNANE, MADDISON      ( 8) F AssumedJoinDate: 16-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 7=( 7*25m+ 0*50m+ 0cr) 25mPB:30.12s First:13-Nov-09  Season:13-Nov-09  Requires 1 more swim   
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:30.76s First:16-Oct-09  Season:16-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:25.07s First:16-Oct-09  Season:16-Oct-09                         
+
+ 85 MAGEE, ASHLEIGH        ( 7) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:13=(13*25m+ 0*50m+ 0cr) 25mPB:30.31s First:01-Feb-08  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:13=(13*25m+ 0*50m+ 0cr) 25mPB:37.71s First:21-Nov-08  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:40.49s First:20-Feb-09  Season:16-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:13=(13*25m+ 0*50m+ 0cr) 25mPB:27.75s First:01-Feb-08  Season:09-Oct-09                         
+
+ 86 MAGEE, RYAN            ( 9) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:30-Jan-09  Season:16-Oct-09                         
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:24-Oct-08  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:15-Feb-08  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:05-Dec-08  Season:09-Oct-09                         
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:13=( 8*25m+ 5*50m+ 0cr) 25mPB:22.29s First:13-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:14=( 7*25m+ 7*50m+ 0cr) 25mPB:22.94s First:01-Dec-06  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:12=( 8*25m+ 4*50m+ 0cr) 25mPB:20.41s First:19-Oct-07  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=( 8*25m+ 4*50m+ 0cr) 25mPB:16.41s First:13-Oct-06  Season:09-Oct-09                         
+
+ 87 MARK, EMILY            (10) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:12=(11*25m+ 1*50m+ 0cr) 25mPB:31.40s First:09-Oct-09  Season:09-Oct-09                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:12=(10*25m+ 2*50m+ 0cr) 25mPB:34.60s First:09-Oct-09  Season:09-Oct-09                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:31.59s First:06-Nov-09  Season:06-Nov-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:13=( 9*25m+ 4*50m+ 0cr) 25mPB:26.60s First:09-Oct-09  Season:09-Oct-09                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+ 88 MARK, HARRISON         ( 6) M AssumedJoinDate: 29-Jan-2010
+Nominated [   ]   Free      25   Req(4)   Eligible            Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:33.95s First:29-Jan-10  Season:29-Jan-10                         
+
+ 89 MASSEY, GEORGIA        ( 9) F AssumedJoinDate: 06-Nov-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:29.99s First:17-Oct-08  Season:06-Nov-09  Requires 5 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:27.83s First:10-Oct-08  Season:06-Nov-09  Requires 5 more swims  
+
+ 90 MC CLINTOCK, ASTBREY   ( 9) F AssumedJoinDate: 16-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:35.56s First:21-Nov-08  Season:16-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:11=( 7*25m+ 4*50m+ 0cr) 25mPB:29.18s First:10-Oct-08  Season:16-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:26.29s First:10-Oct-08  Season:16-Oct-09                         
+
+ 91 MC CLINTOCK, BAILEY    ( 6) M AssumedJoinDate: 23-Oct-2009
+Nominated [   ]   Breast    25   Req(4)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:41.18s First:29-Jan-10  Season:29-Jan-10  Requires 1 more swim   
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:29.11s First:23-Oct-09  Season:23-Oct-09                         
+
+ 92 MCD-WHITE, JESSICA     ( 9) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:06-Mar-09  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:28-Nov-08  Season:23-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:20-Mar-09  Season:19-Feb-10  Requires 2 more swims  
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 8=( 4*25m+ 4*50m+ 0cr) 25mPB:22.27s First:27-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 8=( 4*25m+ 4*50m+ 0cr) 25mPB:23.91s First:27-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 7=( 3*25m+ 4*50m+ 0cr) 25mPB:21.12s First:26-Oct-07  Season:09-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 8=( 4*25m+ 4*50m+ 0cr) 25mPB:18.00s First:13-Oct-06  Season:09-Oct-09                         
+
+ 93 MCKENZIE, BRODIE       ( 9) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:27-Nov-09  Season:27-Nov-09  Requires 2 more swims  
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:26.99s First:13-Feb-09  Season:23-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:27.37s First:31-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:28.11s First:04-Dec-09  Season:04-Dec-09  Requires 4 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:22.75s First:31-Oct-08  Season:09-Oct-09                         
+
+ 94 MCKENZIE, KIRA         ( 6) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(4)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:39.84s First:12-Feb-10  Season:12-Feb-10  Requires 3 more swims  
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:39.48s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:34.61s First:30-Jan-09  Season:09-Oct-09                         
+
+ 95 MEARNS, HANNAH         (13) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:24-Nov-06  Season:23-Oct-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:01-Dec-06  Season:27-Nov-09                         
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:10-Nov-06  Season:27-Nov-09  Requires 2 more swims  
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 9=( 1*25m+ 8*50m+ 0cr) 25mPB:22.97s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:10=( 1*25m+ 9*50m+ 0cr) 25mPB:23.05s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims: 9=( 3*25m+ 6*50m+ 0cr) 25mPB:20.37s First:11-Mar-05  Season:16-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 9=( 1*25m+ 8*50m+ 0cr) 25mPB:16.66s First:11-Mar-05  Season:09-Oct-09                         
+
+ 96 MILLER, CAITLIN        (12) F AssumedJoinDate: 16-Oct-2009
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 1=( 0*25m+ 1*50m+ 0cr) 25mPB:23.59s First:11-Mar-05  Season:12-Feb-10  Requires 7 more swims  
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 3=( 1*25m+ 2*50m+ 0cr) 25mPB:24.33s First:11-Mar-05  Season:16-Oct-09  Requires 5 more swims  
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:17.29s First:11-Mar-05  Season:23-Oct-09                         
+
+ 97 MITCHELL, JOEL         ( 9) M AssumedJoinDate: 16-Oct-2009
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:36.50s First:16-Oct-09  Season:16-Oct-09  Requires 7 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:25.07s First:16-Oct-09  Season:16-Oct-09  Requires 7 more swims  
+
+ 98 MOLLES, CALLUM         ( 6) M AssumedJoinDate: 06-Nov-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:32.96s First:04-Dec-09  Season:04-Dec-09  Requires 5 more swims  
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:50.23s First:27-Nov-09  Season:27-Nov-09  Requires 6 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 7=( 7*25m+ 0*50m+ 0cr) 25mPB:30.61s First:06-Nov-09  Season:06-Nov-09  Requires 1 more swim   
+
+ 99 MOLLES, ETHAN          ( 7) M AssumedJoinDate: 06-Nov-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:56.61s First:27-Nov-09  Season:27-Nov-09  Requires 7 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:31.10s First:06-Nov-09  Season:06-Nov-09  Requires 2 more swims  
+
+100 MOLLES, MIKALA         (12) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:04-Dec-09  Season:04-Dec-09  Requires 1 more swim   
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 9=( 8*25m+ 1*50m+ 0cr) 25mPB:25.25s First:16-Oct-09  Season:16-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 7=( 3*25m+ 4*50m+ 0cr) 25mPB:28.82s First:30-Oct-09  Season:30-Oct-09  Requires 1 more swim   
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 7=( 7*25m+ 0*50m+ 0cr) 25mPB:25.57s First:30-Oct-09  Season:30-Oct-09  Requires 1 more swim   Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 1*25m+ 9*50m+ 0cr) 25mPB:20.25s First:09-Oct-09  Season:09-Oct-09                         
+
+101 MURRY, LIAM            (11) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:26.81s First:25-Nov-05  Season:09-Oct-09  Requires 2 more swims  
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 4=( 0*25m+ 4*50m+ 0cr) 25mPB:28.65s First:11-Mar-05  Season:13-Nov-09  Requires 4 more swims  
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:21.86s First:11-Mar-05  Season:09-Oct-09  Requires 2 more swims  
+
+102 MURRY, YASMIN          (15) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:14-Nov-08  Season:06-Nov-09                         
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:24-Nov-06  Season:16-Oct-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:18-Nov-05  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:08-Dec-06  Season:30-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 7=( 0*25m+ 7*50m+ 0cr) 25mPB:21.54s First:11-Mar-05  Season:16-Oct-09  Requires 1 more swim   
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:24.27s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims: 9=( 0*25m+ 9*50m+ 0cr) 25mPB:21.50s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:16.90s First:11-Mar-05  Season:09-Oct-09                         
+
+103 NEAL, JULIETTE         ( 7) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:72.04s First:30-Oct-09  Season:30-Oct-09  Requires 7 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:33.35s First:09-Oct-09  Season:09-Oct-09  Requires 5 more swims  
+
+104 NISHIDO, TOORU         (11) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:16-Oct-09  Season:16-Oct-09  Requires 2 more swims  
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:13-Mar-09  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:12=( 0*25m+12*50m+ 0cr) 25mPB:26.66s First:01-Feb-08  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:12=( 0*25m+12*50m+ 0cr) 25mPB:29.46s First:08-Feb-08  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:26.37s First:01-Feb-08  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:12=( 0*25m+12*50m+ 0cr) 25mPB:19.80s First:01-Feb-08  Season:09-Oct-09                         
+
+105 O'LEARY, BRENDAN       (16) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:11-Mar-05  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:11-Mar-05  Season:30-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:09-Nov-07  Season:04-Dec-09  Requires 1 more swim   
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 4=( 0*25m+ 4*50m+ 0cr) 25mPB:19.49s First:11-Mar-05  Season:09-Oct-09  Requires 4 more swims  
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 5=( 0*25m+ 5*50m+ 0cr) 25mPB:17.25s First:11-Mar-05  Season:09-Oct-09  Requires 3 more swims  
+Nominated [   ]   Fly       50   Req(8)   Not Yet Eligible    Swims: 2=( 0*25m+ 2*50m+ 0cr) 25mPB:18.27s First:11-Mar-05  Season:09-Oct-09  Requires 6 more swims  
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:15.61s First:11-Mar-05  Season:09-Oct-09  Requires 2 more swims  
+
+106 PERRY, EMMA            ( 6) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:37.63s First:15-Feb-08  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:38.71s First:22-Feb-08  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:39.93s First:14-Nov-08  Season:16-Oct-09  Requires 2 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:28.33s First:01-Feb-08  Season:09-Oct-09                         
+
+107 PERRY, JACOB           ( 9) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:01-Feb-08  Season:13-Nov-09  Requires 1 more swim   
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:08-Feb-08  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:28-Nov-08  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:22-Feb-08  Season:06-Nov-09                         
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:11=( 9*25m+ 2*50m+ 0cr) 25mPB:25.99s First:13-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:12=( 7*25m+ 5*50m+ 0cr) 25mPB:28.65s First:13-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:25.41s First:22-Feb-08  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=( 7*25m+ 5*50m+ 0cr) 25mPB:20.61s First:13-Oct-06  Season:09-Oct-09                         
+
+108 PLAYER, KIEREN         (12) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Eligible            Swims: 5=( 5*100m+ 0cr)                    First:02-Mar-07  Season:09-Oct-09                         
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 5=( 5*100m+ 0cr)                    First:27-Oct-06  Season:16-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:16-Feb-07  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 5=( 5*100m+ 0cr)                    First:23-Mar-07  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 8=( 1*25m+ 7*50m+ 0cr) 25mPB:20.81s First:30-Sep-05  Season:16-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 8=( 1*25m+ 7*50m+ 0cr) 25mPB:21.50s First:30-Sep-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims: 9=( 1*25m+ 8*50m+ 0cr) 25mPB:18.52s First:04-Nov-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 1*25m+ 9*50m+ 0cr) 25mPB:15.78s First:30-Sep-05  Season:09-Oct-09                         
+
+109 POPE, JAC              (11) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:08-Feb-08  Season:20-Nov-09  Requires 2 more swims  
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:06-Nov-09  Season:06-Nov-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:10=( 2*25m+ 8*50m+ 0cr) 25mPB:23.64s First:20-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:11=( 1*25m+10*50m+ 0cr) 25mPB:24.86s First:13-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:21.09s First:10-Nov-06  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:11=( 3*25m+ 8*50m+ 0cr) 25mPB:18.45s First:13-Oct-06  Season:09-Oct-09                         
+
+110 POPE, MAX              ( 6) M AssumedJoinDate: 16-Oct-2009
+Nominated [   ]   Breast    25   Req(4)   Eligible            Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:47.47s First:29-Jan-10  Season:29-Jan-10                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:44.32s First:06-Feb-09  Season:16-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:32.73s First:30-Jan-09  Season:16-Oct-09                         
+
+111 PRATT, JOSH            ( 8) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:31.72s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:35.03s First:23-Oct-09  Season:23-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:32.86s First:06-Nov-09  Season:06-Nov-09  Requires 3 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:23.99s First:09-Oct-09  Season:09-Oct-09                         
+
+112 PRATT, RYAN            ( 5) M AssumedJoinDate: 05-Feb-2010
+Nominated [   ]   Free      25   Req(4)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:38.23s First:05-Feb-10  Season:05-Feb-10  Requires 3 more swims  
+
+113 PROFKE, CAITLIN        (11) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:29-Feb-08  Season:16-Oct-09                         
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:09-Feb-07  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:18-Nov-05  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:10-Nov-06  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:11=( 1*25m+10*50m+ 0cr) 25mPB:19.63s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:12=( 0*25m+12*50m+ 0cr) 25mPB:22.79s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:12=( 1*25m+11*50m+ 0cr) 25mPB:19.68s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:17.67s First:11-Mar-05  Season:16-Oct-09                         
+
+114 PROFKE, JOSH           ( 5) M AssumedJoinDate: 29-Jan-2010
+Nominated [   ]   Breast    25   Req(4)   Eligible            Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:42.90s First:29-Jan-10  Season:29-Jan-10                         
+Nominated [   ]   Free      25   Req(4)   Eligible            Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:35.02s First:29-Jan-10  Season:29-Jan-10                         
+
+115 PROFKE, LACHLAN        ( 9) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:30-Jan-09  Season:16-Oct-09                         
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:26-Oct-07  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:28-Nov-08  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:20-Feb-09  Season:09-Oct-09                         
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:12=(11*25m+ 1*50m+ 0cr) 25mPB:25.51s First:16-Nov-07  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:12=(11*25m+ 1*50m+ 0cr) 25mPB:26.98s First:02-Feb-07  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:27.11s First:14-Nov-08  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:11=(10*25m+ 1*50m+ 0cr) 25mPB:18.92s First:10-Feb-06  Season:16-Oct-09                         
+
+116 PUCEK, PETER           ( 7) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:34.31s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:40.25s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:39.19s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:26.45s First:09-Oct-09  Season:09-Oct-09                         
+
+117 RANN, JOSHUA           (14) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:07-Dec-07  Season:06-Nov-09  Requires 2 more swims  
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:19-Oct-07  Season:23-Oct-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:02-Nov-07  Season:30-Oct-09  Requires 2 more swims  
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:09-Nov-07  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 4=( 0*25m+ 4*50m+ 0cr) 25mPB:19.11s First:13-Oct-06  Season:09-Oct-09  Requires 4 more swims  
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 4=( 0*25m+ 4*50m+ 0cr) 25mPB:19.15s First:13-Oct-06  Season:09-Oct-09  Requires 4 more swims  
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:17.51s First:20-Oct-06  Season:06-Nov-09  Requires 6 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 4=( 0*25m+ 4*50m+ 0cr) 25mPB:15.54s First:13-Oct-06  Season:09-Oct-09  Requires 4 more swims  
+
+118 RANN, MATTHEW          (10) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:29.60s First:09-Oct-09  Season:09-Oct-09  Requires 5 more swims  Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 5=( 0*25m+ 5*50m+ 0cr) 25mPB:27.11s First:30-Jan-09  Season:09-Oct-09  Requires 3 more swims  
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:24.20s First:06-Feb-09  Season:16-Oct-09  Requires 4 more swims  
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 5=( 0*25m+ 5*50m+ 0cr) 25mPB:22.54s First:05-Dec-08  Season:09-Oct-09  Requires 3 more swims  
+
+119 REECE, HANNAH          (13) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:19-Oct-07  Season:16-Oct-09                         
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:24-Nov-06  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:27-Oct-06  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:10-Nov-06  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:10=( 2*25m+ 8*50m+ 0cr) 25mPB:20.90s First:14-Oct-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:11=( 2*25m+ 9*50m+ 0cr) 25mPB:21.62s First:14-Oct-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims:10=( 2*25m+ 8*50m+ 0cr) 25mPB:18.70s First:14-Oct-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 2*25m+ 8*50m+ 0cr) 25mPB:16.15s First:14-Oct-05  Season:09-Oct-09                         
+
+120 REECE, MATTHEW         (10) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:01-Feb-08  Season:16-Oct-09                         
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:24-Nov-06  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:26-Oct-07  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:23-Feb-07  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:12=( 3*25m+ 9*50m+ 0cr) 25mPB:23.78s First:30-Sep-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:12=( 1*25m+11*50m+ 0cr) 25mPB:24.19s First:14-Oct-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:11=( 8*25m+ 3*50m+ 0cr) 25mPB:22.45s First:27-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:12=( 1*25m+11*50m+ 0cr) 25mPB:17.20s First:30-Sep-05  Season:09-Oct-09                         
+
+121 RICHARDS, HAYLEY       (12) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(2)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:05-Feb-10  Season:05-Feb-10  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:27-Nov-09  Season:27-Nov-09                         
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 7=( 3*25m+ 4*50m+ 0cr) 25mPB:25.37s First:06-Nov-09  Season:06-Nov-09  Requires 1 more swim   
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:27.06s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:22.31s First:16-Oct-09  Season:16-Oct-09                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:21.44s First:09-Oct-09  Season:09-Oct-09                         
+
+122 RICHMOND, EMILY        (14) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:23-Nov-07  Season:23-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:23.36s First:14-Oct-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 9=( 0*25m+ 9*50m+ 0cr) 25mPB:20.29s First:14-Oct-05  Season:09-Oct-09                         
+
+123 ROBERTS, ARIELLE       ( 8) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:31.76s First:21-Nov-08  Season:09-Oct-09  Requires 2 more swims  
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:32.36s First:13-Nov-09  Season:13-Nov-09  Requires 7 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 7=( 7*25m+ 0*50m+ 0cr) 25mPB:23.81s First:07-Dec-07  Season:09-Oct-09  Requires 1 more swim   
+
+124 ROBERTS, BROOK         (12) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:13-Feb-09  Season:30-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 5=( 1*25m+ 4*50m+ 0cr) 25mPB:25.14s First:12-Oct-07  Season:09-Oct-09  Requires 3 more swims  
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:10=( 1*25m+ 9*50m+ 0cr) 25mPB:25.15s First:23-Nov-07  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims: 9=( 4*25m+ 5*50m+ 0cr) 25mPB:21.11s First:19-Oct-07  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:11=( 1*25m+10*50m+ 0cr) 25mPB:18.31s First:12-Oct-07  Season:09-Oct-09                         
+
+125 ROBERTS, SARA          (13) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 9=( 0*25m+ 9*50m+ 0cr) 25mPB:22.40s First:13-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 9=( 0*25m+ 9*50m+ 0cr) 25mPB:17.38s First:13-Oct-06  Season:09-Oct-09                         
+
+126 ROBERTSON, JAZMIN      (10) F AssumedJoinDate: 29-Jan-2010
+Nominated [   ]   Back      25   Req(4)   Eligible            Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:26.86s First:29-Jan-10  Season:29-Jan-10                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(4)   Eligible            Swims: 4=( 0*25m+ 4*50m+ 0cr) 25mPB:31.40s First:29-Jan-10  Season:29-Jan-10                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Fly       25   Req(4)   Eligible            Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:22.23s First:29-Jan-10  Season:29-Jan-10                         
+Nominated [   ]   Free      50   Req(4)   Eligible            Swims: 4=( 0*25m+ 4*50m+ 0cr) 25mPB:22.43s First:29-Jan-10  Season:29-Jan-10                         
+
+127 ROLLS, BEN             ( 9) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:27-Nov-09  Season:27-Nov-09  Requires 2 more swims  
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:26.19s First:14-Nov-08  Season:09-Oct-09  Requires 7 more swims  
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:11=( 6*25m+ 5*50m+ 0cr) 25mPB:29.29s First:31-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:10=( 5*25m+ 5*50m+ 0cr) 25mPB:25.22s First:14-Nov-08  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:22.15s First:24-Oct-08  Season:09-Oct-09                         
+
+128 ROLLS, PATRICK         ( 7) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:59.72s First:23-Oct-09  Season:23-Oct-09  Requires 6 more swims  
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:39.49s First:30-Jan-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:50.07s First:06-Nov-09  Season:06-Nov-09  Requires 5 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:36.61s First:14-Nov-08  Season:09-Oct-09                         
+
+129 SHEERAN, JOEL          (12) M AssumedJoinDate: 16-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:27-Oct-06  Season:16-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 4=( 0*25m+ 4*50m+ 0cr) 25mPB:22.76s First:24-Feb-06  Season:23-Oct-09  Requires 4 more swims  
+Nominated [   ]   Fly       50   Req(8)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:20.45s First:27-Oct-06  Season:16-Oct-09  Requires 6 more swims  
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 5=( 2*25m+ 3*50m+ 0cr) 25mPB:16.94s First:24-Feb-06  Season:16-Oct-09  Requires 3 more swims  
+
+130 SHELLEY, CLAUDIA       (10) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:20-Nov-09  Season:20-Nov-09  Requires 2 more swims  
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 5=( 5*100m+ 0cr)                    First:30-Oct-09  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:06-Nov-09  Season:06-Nov-09  Requires 1 more swim   
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:12=( 4*25m+ 8*50m+ 0cr) 25mPB:24.98s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:12=( 5*25m+ 7*50m+ 0cr) 25mPB:29.37s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:24.33s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:12=( 2*25m+10*50m+ 0cr) 25mPB:19.34s First:09-Oct-09  Season:09-Oct-09                         
+
+131 SHELLEY, JACK          ( 8) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   IM       100   Req(2)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:12-Feb-10  Season:12-Feb-10  Requires 1 more swim   
+Nominated [   ]   Free     100   Req(2)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:19-Feb-10  Season:19-Feb-10  Requires 1 more swim   
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:29.83s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:32.16s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:33.14s First:16-Oct-09  Season:16-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:11=(10*25m+ 1*50m+ 0cr) 25mPB:22.60s First:09-Oct-09  Season:09-Oct-09                         
+
+132 SHELLEY, JOSEPH        ( 7) M AssumedJoinDate: 30-Oct-2009
+Nominated [   ]   Back      25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:35.52s First:12-Feb-10  Season:12-Feb-10  Requires 2 more swims  
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:38.37s First:04-Dec-09  Season:04-Dec-09  Requires 3 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:27.13s First:30-Oct-09  Season:30-Oct-09                         
+
+133 SHERRINGTON, CONNOR    ( 8) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:06-Feb-09  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:31-Oct-08  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:05-Dec-08  Season:09-Oct-09                         
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:25.91s First:09-Feb-07  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:27.32s First:13-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:25.90s First:16-Mar-07  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=( 1*25m+11*50m+ 0cr) 25mPB:19.82s First:20-Oct-06  Season:09-Oct-09                         
+
+134 SHERRINGTON, LIAM      (11) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:09-Feb-07  Season:16-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 5=( 5*100m+ 0cr)                    First:15-Feb-08  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:10-Nov-06  Season:09-Oct-09  Requires 1 more swim   
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:12=( 9*25m+ 3*50m+ 0cr) 25mPB:21.74s First:17-Feb-06  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 8=( 1*25m+ 7*50m+ 0cr) 25mPB:23.55s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:11=( 9*25m+ 2*50m+ 0cr) 25mPB:18.06s First:10-Feb-06  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:14=( 3*25m+11*50m+ 0cr) 25mPB:16.30s First:11-Mar-05  Season:09-Oct-09                         
+
+135 SINCLAIR, ABBY         ( 8) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 7=( 7*25m+ 0*50m+ 0cr) 25mPB:31.24s First:16-Oct-09  Season:16-Oct-09  Requires 1 more swim   
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:37.10s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:44.48s First:13-Nov-09  Season:13-Nov-09  Requires 6 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:25.87s First:09-Oct-09  Season:09-Oct-09                         
+
+136 SINCLAIR, BRENT        (10) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:27-Feb-09  Season:13-Nov-09  Requires 2 more swims  
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:06-Mar-09  Season:23-Oct-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:13-Feb-09  Season:30-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:20-Feb-09  Season:09-Oct-09                         
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:37.78s First:13-Feb-09  Season:09-Oct-09                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:34.11s First:13-Feb-09  Season:09-Oct-09                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:41.73s First:13-Feb-09  Season:16-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:27.42s First:13-Feb-09  Season:09-Oct-09                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+137 SINCLAIR, EMMA         ( 8) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:20-Nov-09  Season:20-Nov-09  Requires 2 more swims  
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:30-Oct-09  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:20-Mar-09  Season:09-Oct-09                         
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:31.82s First:13-Feb-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:33.52s First:13-Feb-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:31.49s First:20-Feb-09  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:25.33s First:13-Feb-09  Season:09-Oct-09                         
+
+138 SINCLAIR, JASPER       ( 8) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:27-Nov-09  Season:27-Nov-09  Requires 2 more swims  
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:20-Mar-09  Season:09-Oct-09  Requires 2 more swims  
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:29.78s First:13-Feb-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:36.08s First:13-Feb-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:36.37s First:06-Nov-09  Season:06-Nov-09  Requires 3 more swims  
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:22.74s First:13-Feb-09  Season:09-Oct-09                         
+
+139 SKILLERN, KIRA         (12) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:06-Mar-09  Season:23-Oct-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:28-Nov-08  Season:30-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:12=( 0*25m+12*50m+ 0cr) 25mPB:22.26s First:10-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:25.03s First:10-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims:11=( 6*25m+ 5*50m+ 0cr) 25mPB:20.90s First:10-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:12=( 0*25m+12*50m+ 0cr) 25mPB:18.20s First:10-Oct-08  Season:09-Oct-09                         
+
+140 SMITH, JESSICA         (10) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:26.02s First:17-Oct-08  Season:09-Oct-09                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:27.99s First:30-Jan-09  Season:16-Oct-09                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:26.91s First:30-Oct-09  Season:30-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:13=( 9*25m+ 4*50m+ 0cr) 25mPB:21.81s First:17-Oct-08  Season:09-Oct-09                         
+
+141 SMITH, KURTIS          ( 9) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:22.24s First:12-Oct-07  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:23.24s First:29-Feb-08  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:22.18s First:06-Feb-09  Season:16-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:18.27s First:12-Oct-07  Season:09-Oct-09                         
+
+142 SMITH, SIDONIE         (10) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:26.26s First:19-Oct-07  Season:09-Oct-09                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:27.64s First:19-Oct-07  Season:09-Oct-09                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:26.31s First:21-Nov-08  Season:16-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:12=( 0*25m+12*50m+ 0cr) 25mPB:21.55s First:19-Oct-07  Season:09-Oct-09                         
+
+143 SMITH, THOMAS          ( 7) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:30.18s First:24-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:38.24s First:06-Nov-09  Season:06-Nov-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:26.50s First:24-Oct-08  Season:09-Oct-09                         
+
+144 STANTON, BRYONY        ( 9) F AssumedJoinDate: 06-Nov-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:28.65s First:27-Nov-09  Season:27-Nov-09  Requires 5 more swims  
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:27.48s First:06-Nov-09  Season:06-Nov-09  Requires 3 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:22.14s First:06-Nov-09  Season:06-Nov-09  Requires 3 more swims  
+
+145 STANTON, JEMIMAH       ( 9) F AssumedJoinDate: 06-Nov-2009
+Nominated [   ]   Back      25   Req(4)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:31.83s First:29-Jan-10  Season:29-Jan-10  Requires 2 more swims  
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:32.75s First:06-Nov-09  Season:06-Nov-09  Requires 4 more swims  
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:33.65s First:04-Dec-09  Season:04-Dec-09  Requires 6 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:26.41s First:06-Nov-09  Season:06-Nov-09  Requires 4 more swims  
+
+146 STANTON, SAM           (12) M AssumedJoinDate: 06-Nov-2009
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:27-Nov-09  Season:27-Nov-09  Requires 2 more swims  
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:26.08s First:13-Nov-09  Season:13-Nov-09  Requires 7 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 5=( 0*25m+ 5*50m+ 0cr) 25mPB:26.77s First:06-Nov-09  Season:06-Nov-09  Requires 3 more swims  
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 2=( 2*25m+ 0*50m+ 0cr) 25mPB:22.71s First:04-Dec-09  Season:04-Dec-09  Requires 6 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 5=( 0*25m+ 5*50m+ 0cr) 25mPB:20.19s First:06-Nov-09  Season:06-Nov-09  Requires 3 more swims  
+
+147 STICK, LISA            (16) F AssumedJoinDate: 06-Nov-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:11-Mar-05  Season:13-Nov-09  Requires 1 more swim   
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:11-Mar-05  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:11-Mar-05  Season:06-Nov-09  Requires 1 more swim   
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:22.58s First:11-Mar-05  Season:06-Nov-09  Requires 2 more swims  
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:25.75s First:11-Mar-05  Season:06-Nov-09  Requires 2 more swims  
+Nominated [   ]   Fly       50   Req(8)   Not Yet Eligible    Swims: 5=( 0*25m+ 5*50m+ 0cr) 25mPB:22.04s First:11-Mar-05  Season:06-Nov-09  Requires 3 more swims  
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:18.08s First:11-Mar-05  Season:06-Nov-09  Requires 2 more swims  
+
+148 SULLIVAN, JAKE         (16) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:18.68s First:11-Mar-05  Season:27-Nov-09  Requires 7 more swims  
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 4=( 1*25m+ 3*50m+ 0cr) 25mPB:18.75s First:30-Sep-05  Season:23-Oct-09  Requires 4 more swims  
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 8=( 1*25m+ 7*50m+ 0cr) 25mPB:14.81s First:11-Mar-05  Season:09-Oct-09                         
+
+149 TALAY, ARCHIE          ( 8) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:36.63s First:30-Jan-09  Season:09-Oct-09  Requires 2 more swims  
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:47.21s First:16-Oct-09  Season:16-Oct-09  Requires 5 more swims  
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 7=( 7*25m+ 0*50m+ 0cr) 25mPB:35.42s First:06-Feb-09  Season:09-Oct-09  Requires 1 more swim   
+
+150 TALAY, BRONTE          (12) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:06-Mar-09  Season:20-Nov-09  Requires 1 more swim   
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 2=( 1*25m+ 1*50m+ 0cr) 25mPB:25.03s First:13-Feb-09  Season:20-Nov-09  Requires 6 more swims  
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:25.03s First:30-Jan-09  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:20.31s First:06-Feb-09  Season:09-Oct-09                         
+
+151 TALAY, NED             (10) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 4=( 4*25m+ 0*50m+ 0cr) 25mPB:27.96s First:30-Jan-09  Season:09-Oct-09  Requires 4 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 6=( 4*25m+ 2*50m+ 0cr) 25mPB:30.20s First:06-Feb-09  Season:23-Oct-09  Requires 2 more swims  Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 6=( 1*25m+ 5*50m+ 0cr) 25mPB:22.59s First:30-Jan-09  Season:09-Oct-09  Requires 2 more swims  
+
+152 THOMPSON, GEORGE       ( 5) M AssumedJoinDate: 19-Feb-2010
+Nominated [   ]   Free      25   Req(4)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:43.64s First:19-Feb-10  Season:19-Feb-10  Requires 3 more swims  
+
+153 THOMPSON, JAMES        ( 8) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:31.62s First:09-Oct-09  Season:09-Oct-09  Requires 3 more swims  
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:13=(13*25m+ 0*50m+ 0cr) 25mPB:29.15s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:31.75s First:30-Oct-09  Season:30-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:13=(13*25m+ 0*50m+ 0cr) 25mPB:26.69s First:31-Oct-08  Season:09-Oct-09                         
+
+154 TUITE, ZANE            ( 8) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:31.42s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:33.38s First:23-Oct-09  Season:23-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:25.24s First:09-Oct-09  Season:09-Oct-09                         
+
+155 VIALLE, ANTIONE        (12) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:23-Oct-09  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:30-Oct-09  Season:30-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 1=( 0*25m+ 1*50m+ 0cr) 25mPB:24.46s First:30-Oct-09  Season:30-Oct-09  Requires 7 more swims  
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:22.34s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 1=( 1*25m+ 0*50m+ 0cr) 25mPB:24.16s First:06-Nov-09  Season:06-Nov-09  Requires 7 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 6=( 0*25m+ 6*50m+ 0cr) 25mPB:17.39s First:16-Oct-09  Season:16-Oct-09  Requires 2 more swims  
+
+156 WHEELER, KURTIS        (13) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:01-Feb-08  Season:16-Oct-09  Requires 1 more swim   
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:23-Nov-07  Season:23-Oct-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:02-Nov-07  Season:30-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:09-Nov-07  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 8=( 2*25m+ 6*50m+ 0cr) 25mPB:21.13s First:12-Oct-07  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 9=( 2*25m+ 7*50m+ 0cr) 25mPB:23.72s First:12-Oct-07  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims:10=( 3*25m+ 7*50m+ 0cr) 25mPB:20.27s First:19-Oct-07  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 2*25m+ 8*50m+ 0cr) 25mPB:16.51s First:12-Oct-07  Season:09-Oct-09                         
+
+157 WHEELER, LUCAS         (11) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:23-Nov-07  Season:23-Oct-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:02-Nov-07  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:10-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Not Yet Eligible    Swims: 6=( 1*25m+ 5*50m+ 0cr) 25mPB:22.53s First:12-Oct-07  Season:09-Oct-09  Requires 2 more swims  
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 8=( 1*25m+ 7*50m+ 0cr) 25mPB:22.51s First:12-Oct-07  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 7=( 3*25m+ 4*50m+ 0cr) 25mPB:19.42s First:12-Oct-07  Season:09-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 2*25m+ 8*50m+ 0cr) 25mPB:16.15s First:12-Oct-07  Season:09-Oct-09                         
+
+158 WILLIAMS, ALLY         ( 8) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:49.81s First:23-Oct-09  Season:23-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:36.79s First:07-Mar-08  Season:09-Oct-09                         
+
+159 WILLIAMS, DANIEL       (11) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims:10=( 6*25m+ 4*50m+ 0cr) 25mPB:25.24s First:23-Feb-07  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:29.30s First:27-Oct-06  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:26.81s First:23-Mar-07  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:23.40s First:30-Sep-05  Season:09-Oct-09                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+160 WILLIAMS, MIKAELA      (13) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:27-Oct-06  Season:20-Nov-09  Requires 2 more swims  
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 6=( 6*100m+ 0cr)                    First:16-Feb-07  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:08-Dec-06  Season:09-Oct-09  Requires 2 more swims  
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:22.65s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:28.76s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:23.87s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:11=( 0*25m+11*50m+ 0cr) 25mPB:20.80s First:11-Mar-05  Season:09-Oct-09                         
+
+161 WILSON, CONNOR         ( 9) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:27-Mar-09  Season:16-Oct-09  Requires 2 more swims  
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:23-Oct-09  Season:23-Oct-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:13-Mar-09  Season:27-Nov-09  Requires 2 more swims  
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:20-Mar-09  Season:09-Oct-09  Requires 1 more swim   
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:27.38s First:10-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:10=( 6*25m+ 4*50m+ 0cr) 25mPB:28.05s First:31-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:26.79s First:14-Nov-08  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:10=( 0*25m+10*50m+ 0cr) 25mPB:22.78s First:10-Oct-08  Season:09-Oct-09                         
+
+162 WILSON, FINNEAN        ( 6) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:38.27s First:06-Mar-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:46.08s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(4)   Not Yet Eligible    Swims: 3=( 3*25m+ 0*50m+ 0cr) 25mPB:42.82s First:29-Jan-10  Season:29-Jan-10  Requires 1 more swim   
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:12=(12*25m+ 0*50m+ 0cr) 25mPB:33.36s First:30-Jan-09  Season:09-Oct-09                         
+
+163 WILSON, RILEY          ( 8) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast   100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:23-Oct-09  Season:23-Oct-09                         
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:13-Mar-09  Season:27-Nov-09  Requires 2 more swims  
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:20-Mar-09  Season:09-Oct-09                         
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:29.06s First:24-Oct-08  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:32.56s First:14-Nov-08  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:35.45s First:30-Jan-09  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:11=(11*25m+ 0*50m+ 0cr) 25mPB:23.71s First:24-Oct-08  Season:09-Oct-09                         
+
+164 WING, CARA             (10) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:27-Nov-09  Season:27-Nov-09  Requires 2 more swims  
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 9=( 8*25m+ 1*50m+ 0cr) 25mPB:26.32s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 9=( 5*25m+ 4*50m+ 0cr) 25mPB:30.69s First:09-Oct-09  Season:09-Oct-09                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 7=( 6*25m+ 1*50m+ 0cr) 25mPB:24.85s First:06-Nov-09  Season:06-Nov-09  Requires 1 more swim   
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 9=( 4*25m+ 5*50m+ 0cr) 25mPB:21.83s First:09-Oct-09  Season:09-Oct-09                         
+
+165 WING, LIAM             (11) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:27-Nov-09  Season:27-Nov-09  Requires 2 more swims  
+Nominated [   ]   Free     100   Req(3)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:09-Oct-09  Season:09-Oct-09  Requires 2 more swims  
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:25.41s First:23-Oct-09  Season:23-Oct-09                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 9=( 3*25m+ 6*50m+ 0cr) 25mPB:25.94s First:23-Oct-09  Season:23-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:25.46s First:06-Nov-09  Season:06-Nov-09                         
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims:10=( 5*25m+ 5*50m+ 0cr) 25mPB:21.90s First:09-Oct-09  Season:09-Oct-09                         
+
+166 WOOD, NICOLE           (18) F AssumedJoinDate: 23-Oct-2009
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 2=( 0*25m+ 2*50m+ 0cr) 25mPB:19.91s First:11-Mar-05  Season:23-Oct-09  Requires 6 more swims  
+Nominated [   ]   Fly       50   Req(8)   Not Yet Eligible    Swims: 2=( 0*25m+ 2*50m+ 0cr) 25mPB:16.81s First:11-Mar-05  Season:23-Oct-09  Requires 6 more swims  
+Nominated [   ]   Free      50   Req(8)   Not Yet Eligible    Swims: 2=( 0*25m+ 2*50m+ 0cr) 25mPB:16.52s First:11-Mar-05  Season:23-Oct-09  Requires 6 more swims  
+
+167 WOODROW, BRIDGET       ( 9) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   IM       100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:27-Nov-09  Season:27-Nov-09  Requires 1 more swim   
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:36.87s First:09-Nov-07  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:33.24s First:12-Oct-07  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:30.55s First:14-Nov-08  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:25.01s First:12-Oct-07  Season:09-Oct-09                         
+
+168 WOODROW, CORMAC        (13) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:17-Nov-06  Season:13-Nov-09                         
+Nominated [   ]   Breast   100   Req(3)   Not Yet Eligible    Swims: 2=( 2*100m+ 0cr)                    First:24-Nov-06  Season:23-Oct-09  Requires 1 more swim   
+Nominated [   ]   IM       100   Req(3)   Eligible            Swims: 4=( 4*100m+ 0cr)                    First:27-Oct-06  Season:23-Oct-09                         
+Nominated [   ]   Free     100   Req(3)   Eligible            Swims: 3=( 3*100m+ 0cr)                    First:09-Nov-07  Season:09-Oct-09                         
+Nominated [   ]   Back      50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:18.16s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Breast    50   Req(8)   Eligible            Swims: 9=( 0*25m+ 9*50m+ 0cr) 25mPB:20.77s First:11-Mar-05  Season:09-Oct-09                         
+Nominated [   ]   Fly       50   Req(8)   Not Yet Eligible    Swims: 7=( 0*25m+ 7*50m+ 0cr) 25mPB:19.63s First:11-Mar-05  Season:09-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:15.03s First:11-Mar-05  Season:23-Oct-09                         
+
+169 WOODROW, LIAM          (11) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 5=( 5*25m+ 0*50m+ 0cr) 25mPB:29.88s First:10-Feb-06  Season:09-Oct-09  Requires 3 more swims  Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 5=( 4*25m+ 1*50m+ 0cr) 25mPB:33.94s First:17-Mar-06  Season:09-Oct-09  Requires 3 more swims  Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 4=( 0*25m+ 4*50m+ 0cr) 25mPB:24.78s First:03-Feb-06  Season:09-Oct-09  Requires 4 more swims  Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+170 WORMWELL, OLIVIA       ( 8) F AssumedJoinDate: 16-Oct-2009
+Nominated [   ]   IM       100   Req(2)   Not Yet Eligible    Swims: 1=( 1*100m+ 0cr)                    First:12-Feb-10  Season:12-Feb-10  Requires 1 more swim   
+Nominated [   ]   Back      25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:26.54s First:16-Oct-09  Season:16-Oct-09  Requires 2 more swims  
+Nominated [   ]   Breast    25   Req(8)   Not Yet Eligible    Swims: 7=( 7*25m+ 0*50m+ 0cr) 25mPB:30.77s First:16-Oct-09  Season:16-Oct-09  Requires 1 more swim   
+Nominated [   ]   Fly       25   Req(8)   Not Yet Eligible    Swims: 7=( 7*25m+ 0*50m+ 0cr) 25mPB:24.76s First:16-Oct-09  Season:16-Oct-09  Requires 1 more swim   
+Nominated [   ]   Free      25   Req(8)   Not Yet Eligible    Swims: 6=( 6*25m+ 0*50m+ 0cr) 25mPB:22.85s First:16-Oct-09  Season:16-Oct-09  Requires 2 more swims  
+
+171 WYLDE-BROWN, GABBY     (11) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast    50   Req(8)   Not Yet Eligible    Swims: 4=( 0*25m+ 4*50m+ 0cr) 25mPB:29.52s First:26-Oct-07  Season:09-Oct-09  Requires 4 more swims  
+Nominated [   ]   Free      50   Req(8)   Eligible            Swims: 8=( 0*25m+ 8*50m+ 0cr) 25mPB:22.97s First:26-Oct-07  Season:09-Oct-09                         
+
+172 WYLDE-BROWN, JUSTIN    ( 8) M AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:27.05s First:20-Feb-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:29.45s First:30-Oct-09  Season:30-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims:10=(10*25m+ 0*50m+ 0cr) 25mPB:28.41s First:29-Feb-08  Season:09-Oct-09                         
+
+173 ZOCH, ELOISE           ( 9) F AssumedJoinDate: 09-Oct-2009
+Nominated [   ]   Back      25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:36.59s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Breast    25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:44.14s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Fly       25   Req(8)   Eligible            Swims: 9=( 9*25m+ 0*50m+ 0cr) 25mPB:44.21s First:09-Oct-09  Season:09-Oct-09                         
+Nominated [   ]   Free      25   Req(8)   Eligible            Swims: 8=( 8*25m+ 0*50m+ 0cr) 25mPB:33.29s First:09-Oct-09  Season:09-Oct-09                         
+

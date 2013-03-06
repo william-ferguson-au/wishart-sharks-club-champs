@@ -1,0 +1,1041 @@
+Club Championships eligibility based on club-champs-eligibility-2010-02-19.csv
+
+Event 1   100m  Back   Age(9 & under)  M
+   1   CLARKE, ISAAC              Age( 6)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   2   CLARKE, JACKSON            Age( 6)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   3   HANNAM, SOLOMON            Age( 8)  Swims( 3)  Req( 3)                         
+   4   MAGEE, RYAN                Age( 9)  Swims( 3)  Req( 3)                         
+   5   PERRY, JACOB               Age( 9)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   6   PROFKE, LACHLAN            Age( 9)  Swims( 3)  Req( 3)                         
+   7   WILSON, CONNOR             Age( 9)  Swims( 1)  Req( 3)  Requires 2 more swims  
+
+Event 2   100m  Back   Age(10)  M
+   1   DALY, LACHLAN              Age(10)  Swims( 1)  Req( 2)  Requires 1 more swim   
+   2   REECE, MATTHEW             Age(10)  Swims( 3)  Req( 3)                         
+   3   SINCLAIR, BRENT            Age(10)  Swims( 1)  Req( 3)  Requires 2 more swims  
+
+Event 3   100m  Back   Age(11)  F
+   1   ASHCROFT, MONTANA          Age(11)  Swims( 1)  Req( 2)  Requires 1 more swim   
+   2   PROFKE, CAITLIN            Age(11)  Swims( 4)  Req( 3)                         
+
+Event 4   100m  Back   Age(12)  F
+   1   BELL, LISA                 Age(12)  Swims( 1)  Req( 2)  Requires 1 more swim   
+   2   BROMLEY, ALEX              Age(12)  Swims( 3)  Req( 3)                         
+
+Event 5   100m  Back   Age(12)  M
+   1   PLAYER, KIEREN             Age(12)  Swims( 5)  Req( 3)                         
+
+Event 6   100m  Back   Age(13)  F
+   1   BLANCHFIELD, MADELINE      Age(13)  Swims( 5)  Req( 3)                         
+   2   DALY, BRIAHNA              Age(13)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   3   REECE, HANNAH              Age(13)  Swims( 3)  Req( 3)                         
+
+Event 7   100m  Back   Age(13)  M
+   1   CHINN, JULIAN              Age(13)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   2   WHEELER, KURTIS            Age(13)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   3   WOODROW, CORMAC            Age(13)  Swims( 3)  Req( 3)                         
+
+Event 8   100m  Back   Age(14)  F
+   1   BEARD, MADELINE            Age(14)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   2   BROMLEY, EMMELIE           Age(14)  Swims( 6)  Req( 3)                         
+
+Event 9   100m  Back   Age(15)  F
+   1   MURRY, YASMIN              Age(15)  Swims( 3)  Req( 3)                         
+
+Event 10   100m  Back   Age(16 & over)  M
+   1   BROMLEY, DILLON            Age(16)  Swims( 3)  Req( 3)                         
+
+Event 11   25m  Back   Age(6)  F
+   1   CROSS, MIKAYLA             Age( 6)  Swims(12)  Req( 8)                         
+   2   HANNAM, MERCEDES           Age( 6)  Swims(11)  Req( 8)                         
+   3   MCKENZIE, KIRA             Age( 6)  Swims( 1)  Req( 4)  Requires 3 more swims  
+   4   PERRY, EMMA                Age( 6)  Swims(11)  Req( 8)                         
+
+Event 12   25m  Back   Age(6)  M
+   1   CLARKE, ISAAC              Age( 6)  Swims( 9)  Req( 8)                         
+   2   CLARKE, JACKSON            Age( 6)  Swims( 9)  Req( 8)                         
+   3   MOLLES, CALLUM             Age( 6)  Swims( 3)  Req( 8)  Requires 5 more swims  
+   4   WILSON, FINNEAN            Age( 6)  Swims(12)  Req( 8)                         
+
+Event 13   25m  Back   Age(7)  F
+   1   DE BARITAULT, EMILIA       Age( 7)  Swims(11)  Req( 8)                         
+   2   JONES, ANNABELLE           Age( 7)  Swims(11)  Req( 8)                         
+   3   KWIK, ALANA                Age( 7)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   4   MAGEE, ASHLEIGH            Age( 7)  Swims(13)  Req( 8)                         
+
+Event 14   25m  Back   Age(7)  M
+   1   BOOTH, BENJAMIN            Age( 7)  Swims(12)  Req( 8)                         
+   2   CALLAN, NOAH               Age( 7)  Swims( 3)  Req( 8)  Requires 5 more swims  
+   3   CALLAN, WILL               Age( 7)  Swims( 1)  Req( 8)  Requires 7 more swims  
+   4   DAVIS, BLAKE               Age( 7)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   5   GALLAGHER, DANIEL          Age( 7)  Swims( 9)  Req( 8)                         
+   6   MOLLES, ETHAN              Age( 7)  Swims( 1)  Req( 8)  Requires 7 more swims  
+   7   PUCEK, PETER               Age( 7)  Swims( 9)  Req( 8)                         
+   8   ROLLS, PATRICK             Age( 7)  Swims( 2)  Req( 8)  Requires 6 more swims  
+   9   SHELLEY, JOSEPH            Age( 7)  Swims( 2)  Req( 4)  Requires 2 more swims  
+  10   SMITH, THOMAS              Age( 7)  Swims(12)  Req( 8)                         
+
+Event 15   25m  Back   Age(8)  F
+   1   CAMPBELL, ANNE             Age( 8)  Swims( 2)  Req( 8)  Requires 6 more swims  
+   2   KEARNEY, JORDYN            Age( 8)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   3   KRONENBERG, GRACE          Age( 8)  Swims(10)  Req( 8)                         
+   4   KWIK, JESSICA              Age( 8)  Swims(10)  Req( 8)                         
+   5   LINNANE, MADDISON          Age( 8)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   6   SINCLAIR, ABBY             Age( 8)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   7   SINCLAIR, EMMA             Age( 8)  Swims(10)  Req( 8)                         
+   8   WORMWELL, OLIVIA           Age( 8)  Swims( 6)  Req( 8)  Requires 2 more swims  
+
+Event 16   25m  Back   Age(8)  M
+   1   CHECKLEY, KALEB            Age( 8)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   2   FUKUSHIGE, JOSHUA          Age( 8)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   3   HANNAM, SOLOMON            Age( 8)  Swims(10)  Req( 8)                         
+   4   JASINOWICZ, OSCAR          Age( 8)  Swims( 8)  Req( 8)                         
+   5   JEFFREY, TOM               Age( 8)  Swims( 9)  Req( 8)                         
+   6   PRATT, JOSH                Age( 8)  Swims(10)  Req( 8)                         
+   7   SHELLEY, JACK              Age( 8)  Swims(10)  Req( 8)                         
+   8   SHERRINGTON, CONNOR        Age( 8)  Swims(11)  Req( 8)                         
+   9   SINCLAIR, JASPER           Age( 8)  Swims( 9)  Req( 8)                         
+  10   TALAY, ARCHIE              Age( 8)  Swims( 6)  Req( 8)  Requires 2 more swims  
+  11   THOMPSON, JAMES            Age( 8)  Swims( 5)  Req( 8)  Requires 3 more swims  
+  12   WILSON, RILEY              Age( 8)  Swims(11)  Req( 8)                         
+
+Event 17   25m  Back   Age(9)  F
+   1   BARWICK, EMMA              Age( 9)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   2   BELL, EMMA                 Age( 9)  Swims( 8)  Req( 8)                         
+   3   CREANEY, JESSICA           Age( 9)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   4   DE BARITAULT, GABRIELLE    Age( 9)  Swims(10)  Req( 8)                         
+   5   DI BELLA, GABRIELLA        Age( 9)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   6   MASSEY, GEORGIA            Age( 9)  Swims( 3)  Req( 8)  Requires 5 more swims  
+   7   MC CLINTOCK, ASTBREY       Age( 9)  Swims(10)  Req( 8)                         
+   8   MCD-WHITE, JESSICA         Age( 9)  Swims( 8)  Req( 8)                         
+   9   STANTON, BRYONY            Age( 9)  Swims( 3)  Req( 8)  Requires 5 more swims  
+  10   STANTON, JEMIMAH           Age( 9)  Swims( 2)  Req( 4)  Requires 2 more swims  
+  11   WOODROW, BRIDGET           Age( 9)  Swims( 8)  Req( 8)                         
+  12   ZOCH, ELOISE               Age( 9)  Swims( 9)  Req( 8)                         
+
+Event 18   25m  Back   Age(9)  M
+   1   DAUNT, ELI                 Age( 9)  Swims(11)  Req( 8)                         
+   2   KING, JAMES                Age( 9)  Swims( 9)  Req( 8)                         
+   3   MAGEE, RYAN                Age( 9)  Swims(13)  Req( 8)                         
+   4   MCKENZIE, BRODIE           Age( 9)  Swims( 8)  Req( 8)                         
+   5   PERRY, JACOB               Age( 9)  Swims(11)  Req( 8)                         
+   6   PROFKE, LACHLAN            Age( 9)  Swims(12)  Req( 8)                         
+   7   ROLLS, BEN                 Age( 9)  Swims( 1)  Req( 8)  Requires 7 more swims  
+   8   SMITH, KURTIS              Age( 9)  Swims(11)  Req( 8)                         
+   9   WILSON, CONNOR             Age( 9)  Swims( 8)  Req( 8)                         
+
+Event 19   25m  Back   Age(10)  F
+   1   CROSS, JACINTA             Age(10)  Swims(12)  Req( 8)                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   2   DAVIS, JASMINE             Age(10)  Swims(10)  Req( 8)                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+   3   FERGUSON, DARIA            Age(10)  Swims( 1)  Req( 8)  Requires 7 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+   4   MARK, EMILY                Age(10)  Swims(12)  Req( 8)                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   5   ROBERTSON, JAZMIN          Age(10)  Swims( 4)  Req( 4)                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+   6   SMITH, JESSICA             Age(10)  Swims(12)  Req( 8)                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+   7   SMITH, SIDONIE             Age(10)  Swims(12)  Req( 8)                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+
+Event 20   25m  Back   Age(10)  M
+   1   BENGTSON, NATHANIEL        Age(10)  Swims( 6)  Req( 8)  Requires 2 more swims  Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+   2   CARTER, SEAN               Age(10)  Swims( 2)  Req( 4)  Requires 2 more swims  Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+   3   GOEPEL, BRODAN             Age(10)  Swims( 3)  Req( 4)  Requires 1 more swim   Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+   4   KEARNEY, KAI               Age(10)  Swims( 6)  Req( 8)  Requires 2 more swims  Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+   5   RANN, MATTHEW              Age(10)  Swims( 3)  Req( 8)  Requires 5 more swims  Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+   6   SINCLAIR, BRENT            Age(10)  Swims( 9)  Req( 8)                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+   7   TALAY, NED                 Age(10)  Swims( 4)  Req( 8)  Requires 4 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+
+Event 21   25m  Back   Age(11)  F
+   1   CARTER, AINSLEY            Age(11)  Swims( 1)  Req( 4)  Requires 3 more swims  Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+   2   FORD, SAMANTHA             Age(11)  Swims(10)  Req( 8)                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+
+Event 22   25m  Back   Age(11)  M
+   1   BUTCHER, THOMAS            Age(11)  Swims( 8)  Req( 8)                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+   2   LINNANE, JOSHUA            Age(11)  Swims(11)  Req( 8)                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+   3   WING, LIAM                 Age(11)  Swims( 9)  Req( 8)                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+   4   WOODROW, LIAM              Age(11)  Swims( 5)  Req( 8)  Requires 3 more swims  Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+Event 23   50m  Back   Age(10)  F
+   1   BEARD, OLIVIA              Age(10)  Swims(12)  Req( 8)                         
+   2   CHINN, MADDISON            Age(10)  Swims( 9)  Req( 8)                         
+   3   CHINN, TAYLOR              Age(10)  Swims( 9)  Req( 8)                         
+   4   HUSSIE, EMILY              Age(10)  Swims(11)  Req( 8)                         
+   5   SHELLEY, CLAUDIA           Age(10)  Swims(12)  Req( 8)                         
+   6   WING, CARA                 Age(10)  Swims( 9)  Req( 8)                         
+
+Event 24   50m  Back   Age(10)  M
+   1   DALY, LACHLAN              Age(10)  Swims( 9)  Req( 8)                         
+   2   REECE, MATTHEW             Age(10)  Swims(12)  Req( 8)                         
+
+Event 25   50m  Back   Age(11)  F
+   1   ASHCROFT, MONTANA          Age(11)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   2   BENNETT, RYLEIGH           Age(11)  Swims(10)  Req( 8)                         
+   3   CRAMP-CHURCH, WENONA       Age(11)  Swims(11)  Req( 8)                         
+   4   GALLAGHER, ELISE           Age(11)  Swims(10)  Req( 8)                         
+   5   PROFKE, CAITLIN            Age(11)  Swims(11)  Req( 8)                         
+
+Event 26   50m  Back   Age(11)  M
+   1   BLANCHFIELD, JACK          Age(11)  Swims( 8)  Req( 8)                         
+   2   DENNY, BRANDON             Age(11)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   3   KWIK, CODY                 Age(11)  Swims(13)  Req( 8)                         
+   4   MURRY, LIAM                Age(11)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   5   NISHIDO, TOORU             Age(11)  Swims(12)  Req( 8)                         
+   6   POPE, JAC                  Age(11)  Swims(10)  Req( 8)                         
+   7   SHERRINGTON, LIAM          Age(11)  Swims(12)  Req( 8)                         
+   8   WHEELER, LUCAS             Age(11)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   9   WILLIAMS, DANIEL           Age(11)  Swims(10)  Req( 8)                         
+
+Event 27   50m  Back   Age(12)  F
+   1   BELL, LISA                 Age(12)  Swims( 9)  Req( 8)                         
+   2   BROMLEY, ALEX              Age(12)  Swims(11)  Req( 8)                         
+   3   FERGUSON, XANTHE           Age(12)  Swims(10)  Req( 8)                         
+   4   HUSSIE, SARAH              Age(12)  Swims(11)  Req( 8)                         
+   5   MILLER, CAITLIN            Age(12)  Swims( 1)  Req( 8)  Requires 7 more swims  
+   6   MOLLES, MIKALA             Age(12)  Swims( 9)  Req( 8)                         
+   7   RICHARDS, HAYLEY           Age(12)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   8   ROBERTS, BROOK             Age(12)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   9   SKILLERN, KIRA             Age(12)  Swims(12)  Req( 8)                         
+  10   TALAY, BRONTE              Age(12)  Swims( 2)  Req( 8)  Requires 6 more swims  
+
+Event 28   50m  Back   Age(12)  M
+   1   LACEY, DANIEL              Age(12)  Swims( 8)  Req( 8)                         
+   2   PLAYER, KIEREN             Age(12)  Swims( 8)  Req( 8)                         
+   3   VIALLE, ANTIONE            Age(12)  Swims( 1)  Req( 8)  Requires 7 more swims  
+
+Event 29   50m  Back   Age(13)  F
+   1   BLANCHFIELD, MADELINE      Age(13)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   2   BURNETT, EMMA              Age(13)  Swims(12)  Req( 8)                         
+   3   DALY, BRIAHNA              Age(13)  Swims(10)  Req( 8)                         
+   4   MEARNS, HANNAH             Age(13)  Swims( 9)  Req( 8)                         
+   5   REECE, HANNAH              Age(13)  Swims(10)  Req( 8)                         
+   6   WILLIAMS, MIKAELA          Age(13)  Swims( 8)  Req( 8)                         
+
+Event 30   50m  Back   Age(13)  M
+   1   BOOTH, ANDREW              Age(13)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   2   CHINN, JULIAN              Age(13)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   3   WHEELER, KURTIS            Age(13)  Swims( 8)  Req( 8)                         
+   4   WOODROW, CORMAC            Age(13)  Swims( 8)  Req( 8)                         
+
+Event 31   50m  Back   Age(14)  F
+   1   BEARD, MADELINE            Age(14)  Swims(11)  Req( 8)                         
+   2   BROMLEY, EMMELIE           Age(14)  Swims( 9)  Req( 8)                         
+
+Event 32   50m  Back   Age(16 & over)  M
+   1   BROMLEY, DILLON            Age(16)  Swims(10)  Req( 8)                         
+   2   O'LEARY, BRENDAN           Age(16)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   3   SULLIVAN, JAKE             Age(16)  Swims( 1)  Req( 8)  Requires 7 more swims  
+
+Event 33   100m  Breast   Age(9 & under)  F
+   1   BELL, EMMA                 Age( 9)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   2   MCD-WHITE, JESSICA         Age( 9)  Swims( 3)  Req( 3)                         
+   3   SINCLAIR, EMMA             Age( 8)  Swims( 1)  Req( 3)  Requires 2 more swims  
+
+Event 34   100m  Breast   Age(9 & under)  M
+   1   CLARKE, ISAAC              Age( 6)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   2   CLARKE, JACKSON            Age( 6)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   3   DAUNT, ELI                 Age( 9)  Swims( 3)  Req( 3)                         
+   4   HANNAM, SOLOMON            Age( 8)  Swims( 3)  Req( 3)                         
+   5   JASINOWICZ, OSCAR          Age( 8)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   6   MAGEE, RYAN                Age( 9)  Swims( 3)  Req( 3)                         
+   7   PERRY, JACOB               Age( 9)  Swims( 3)  Req( 3)                         
+   8   PROFKE, LACHLAN            Age( 9)  Swims( 3)  Req( 3)                         
+   9   SHERRINGTON, CONNOR        Age( 8)  Swims( 3)  Req( 3)                         
+  10   WILSON, CONNOR             Age( 9)  Swims( 2)  Req( 3)  Requires 1 more swim   
+  11   WILSON, RILEY              Age( 8)  Swims( 3)  Req( 3)                         
+
+Event 35   100m  Breast   Age(10)  M
+   1   DALY, LACHLAN              Age(10)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   2   REECE, MATTHEW             Age(10)  Swims( 3)  Req( 3)                         
+   3   SINCLAIR, BRENT            Age(10)  Swims( 2)  Req( 3)  Requires 1 more swim   
+
+Event 36   100m  Breast   Age(11)  F
+   1   ASHCROFT, MONTANA          Age(11)  Swims( 1)  Req( 2)  Requires 1 more swim   
+   2   BENNETT, RYLEIGH           Age(11)  Swims( 3)  Req( 3)                         
+   3   CRAMP-CHURCH, WENONA       Age(11)  Swims( 3)  Req( 3)                         
+   4   GALLAGHER, ELISE           Age(11)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   5   PROFKE, CAITLIN            Age(11)  Swims( 2)  Req( 3)  Requires 1 more swim   
+
+Event 37   100m  Breast   Age(11)  M
+   1   BLANCHFIELD, JACK          Age(11)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   2   BUTCHER, THOMAS            Age(11)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   3   POPE, JAC                  Age(11)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   4   SHERRINGTON, LIAM          Age(11)  Swims( 3)  Req( 3)                         
+   5   WHEELER, LUCAS             Age(11)  Swims( 2)  Req( 3)  Requires 1 more swim   
+
+Event 38   100m  Breast   Age(12)  F
+   1   BELL, LISA                 Age(12)  Swims( 3)  Req( 3)                         
+   2   BROMLEY, ALEX              Age(12)  Swims( 3)  Req( 3)                         
+   3   FERGUSON, XANTHE           Age(12)  Swims( 3)  Req( 3)                         
+   4   RICHARDS, HAYLEY           Age(12)  Swims( 1)  Req( 2)  Requires 1 more swim   
+   5   SKILLERN, KIRA             Age(12)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   6   TALAY, BRONTE              Age(12)  Swims( 2)  Req( 3)  Requires 1 more swim   
+
+Event 39   100m  Breast   Age(12)  M
+   1   PLAYER, KIEREN             Age(12)  Swims( 5)  Req( 3)                         
+   2   SHEERAN, JOEL              Age(12)  Swims( 3)  Req( 3)                         
+   3   VIALLE, ANTIONE            Age(12)  Swims( 4)  Req( 3)                         
+
+Event 40   100m  Breast   Age(13)  F
+   1   BLANCHFIELD, MADELINE      Age(13)  Swims( 5)  Req( 3)                         
+   2   DALY, BRIAHNA              Age(13)  Swims( 3)  Req( 3)                         
+   3   MEARNS, HANNAH             Age(13)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   4   REECE, HANNAH              Age(13)  Swims( 3)  Req( 3)                         
+   5   WILLIAMS, MIKAELA          Age(13)  Swims( 1)  Req( 3)  Requires 2 more swims  
+
+Event 41   100m  Breast   Age(14)  F
+   1   BEARD, MADELINE            Age(14)  Swims( 3)  Req( 3)                         
+   2   BROMLEY, EMMELIE           Age(14)  Swims( 4)  Req( 3)                         
+   3   BROWN, ZOE                 Age(14)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   4   RICHMOND, EMILY            Age(14)  Swims( 3)  Req( 3)                         
+
+Event 42   25m  Breast   Age(5)  M
+   1   PROFKE, JOSH               Age( 5)  Swims( 4)  Req( 4)                         
+
+Event 43   25m  Breast   Age(6)  F
+   1   HANNAM, MERCEDES           Age( 6)  Swims(11)  Req( 8)                         
+   2   MCKENZIE, KIRA             Age( 6)  Swims( 9)  Req( 8)                         
+   3   PERRY, EMMA                Age( 6)  Swims( 8)  Req( 8)                         
+
+Event 44   25m  Breast   Age(6)  M
+   1   CLARKE, ISAAC              Age( 6)  Swims(12)  Req( 8)                         
+   2   CLARKE, JACKSON            Age( 6)  Swims(13)  Req( 8)                         
+   3   FUKUSHIGE, MATTHEW         Age( 6)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   4   MC CLINTOCK, BAILEY        Age( 6)  Swims( 3)  Req( 4)  Requires 1 more swim   
+   5   MOLLES, CALLUM             Age( 6)  Swims( 2)  Req( 8)  Requires 6 more swims  
+   6   POPE, MAX                  Age( 6)  Swims( 4)  Req( 4)                         
+   7   WILSON, FINNEAN            Age( 6)  Swims(11)  Req( 8)                         
+
+Event 45   25m  Breast   Age(7)  F
+   1   DE BARITAULT, EMILIA       Age( 7)  Swims(11)  Req( 8)                         
+   2   JONES, ANNABELLE           Age( 7)  Swims(11)  Req( 8)                         
+   3   KING, LARA                 Age( 7)  Swims( 3)  Req( 4)  Requires 1 more swim   
+   4   MAGEE, ASHLEIGH            Age( 7)  Swims(13)  Req( 8)                         
+   5   NEAL, JULIETTE             Age( 7)  Swims( 1)  Req( 8)  Requires 7 more swims  
+
+Event 46   25m  Breast   Age(7)  M
+   1   BOOTH, BENJAMIN            Age( 7)  Swims(12)  Req( 8)                         
+   2   CALLAN, NOAH               Age( 7)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   3   CALLAN, WILL               Age( 7)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   4   DAVIS, BLAKE               Age( 7)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   5   GALLAGHER, DANIEL          Age( 7)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   6   PUCEK, PETER               Age( 7)  Swims(12)  Req( 8)                         
+   7   ROLLS, PATRICK             Age( 7)  Swims(12)  Req( 8)                         
+   8   SHELLEY, JOSEPH            Age( 7)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   9   SMITH, THOMAS              Age( 7)  Swims( 9)  Req( 8)                         
+
+Event 47   25m  Breast   Age(8)  F
+   1   BARTLETT, MIKAYLA          Age( 8)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   2   CAMPBELL, ANNE             Age( 8)  Swims( 3)  Req( 8)  Requires 5 more swims  
+   3   KEARNEY, JORDYN            Age( 8)  Swims( 1)  Req( 4)  Requires 3 more swims  
+   4   KRONENBERG, GRACE          Age( 8)  Swims( 8)  Req( 8)                         
+   5   KWIK, JESSICA              Age( 8)  Swims(12)  Req( 8)                         
+   6   LINNANE, MADDISON          Age( 8)  Swims(10)  Req( 8)                         
+   7   ROBERTS, ARIELLE           Age( 8)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   8   SINCLAIR, ABBY             Age( 8)  Swims( 9)  Req( 8)                         
+   9   SINCLAIR, EMMA             Age( 8)  Swims(10)  Req( 8)                         
+  10   WILLIAMS, ALLY             Age( 8)  Swims( 9)  Req( 8)                         
+  11   WORMWELL, OLIVIA           Age( 8)  Swims( 7)  Req( 8)  Requires 1 more swim   
+
+Event 48   25m  Breast   Age(8)  M
+   1   CHECKLEY, KALEB            Age( 8)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   2   FUKUSHIGE, JOSHUA          Age( 8)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   3   GREGG, CALLAN              Age( 8)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   4   HANNAM, SOLOMON            Age( 8)  Swims(10)  Req( 8)                         
+   5   JASINOWICZ, OSCAR          Age( 8)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   6   JEFFREY, TOM               Age( 8)  Swims(10)  Req( 8)                         
+   7   PRATT, JOSH                Age( 8)  Swims( 9)  Req( 8)                         
+   8   SHELLEY, JACK              Age( 8)  Swims(11)  Req( 8)                         
+   9   SHERRINGTON, CONNOR        Age( 8)  Swims(11)  Req( 8)                         
+  10   SINCLAIR, JASPER           Age( 8)  Swims( 9)  Req( 8)                         
+  11   THOMPSON, JAMES            Age( 8)  Swims(13)  Req( 8)                         
+  12   TUITE, ZANE                Age( 8)  Swims(11)  Req( 8)                         
+  13   WILSON, RILEY              Age( 8)  Swims(11)  Req( 8)                         
+  14   WYLDE-BROWN, JUSTIN        Age( 8)  Swims( 9)  Req( 8)                         
+
+Event 49   25m  Breast   Age(9)  F
+   1   BARWICK, EMMA              Age( 9)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   2   BELL, EMMA                 Age( 9)  Swims( 9)  Req( 8)                         
+   3   CREANEY, JESSICA           Age( 9)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   4   DE BARITAULT, GABRIELLE    Age( 9)  Swims(10)  Req( 8)                         
+   5   DI BELLA, GABRIELLA        Age( 9)  Swims( 8)  Req( 8)                         
+   6   MC CLINTOCK, ASTBREY       Age( 9)  Swims(11)  Req( 8)                         
+   7   MCD-WHITE, JESSICA         Age( 9)  Swims( 8)  Req( 8)                         
+   8   STANTON, BRYONY            Age( 9)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   9   STANTON, JEMIMAH           Age( 9)  Swims( 4)  Req( 8)  Requires 4 more swims  
+  10   WOODROW, BRIDGET           Age( 9)  Swims( 8)  Req( 8)                         
+  11   ZOCH, ELOISE               Age( 9)  Swims( 9)  Req( 8)                         
+
+Event 50   25m  Breast   Age(9)  M
+   1   DAUNT, ELI                 Age( 9)  Swims(13)  Req( 8)                         
+   2   KING, JAMES                Age( 9)  Swims( 8)  Req( 8)                         
+   3   MAGEE, RYAN                Age( 9)  Swims(14)  Req( 8)                         
+   4   MCKENZIE, BRODIE           Age( 9)  Swims( 9)  Req( 8)                         
+   5   MITCHELL, JOEL             Age( 9)  Swims( 1)  Req( 8)  Requires 7 more swims  
+   6   PERRY, JACOB               Age( 9)  Swims(12)  Req( 8)                         
+   7   PROFKE, LACHLAN            Age( 9)  Swims(12)  Req( 8)                         
+   8   ROLLS, BEN                 Age( 9)  Swims(11)  Req( 8)                         
+   9   SMITH, KURTIS              Age( 9)  Swims(10)  Req( 8)                         
+  10   WILSON, CONNOR             Age( 9)  Swims(10)  Req( 8)                         
+
+Event 51   25m  Breast   Age(10)  F
+   1   CROSS, JACINTA             Age(10)  Swims(12)  Req( 8)                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   2   DAVIS, JASMINE             Age(10)  Swims( 9)  Req( 8)                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+   3   FERGUSON, DARIA            Age(10)  Swims( 2)  Req( 8)  Requires 6 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+   4   MARK, EMILY                Age(10)  Swims(12)  Req( 8)                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   5   ROBERTSON, JAZMIN          Age(10)  Swims( 4)  Req( 4)                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   6   SMITH, JESSICA             Age(10)  Swims(12)  Req( 8)                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+   7   SMITH, SIDONIE             Age(10)  Swims(11)  Req( 8)                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+   8   WING, CARA                 Age(10)  Swims( 9)  Req( 8)                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+Event 52   25m  Breast   Age(10)  M
+   1   BENGTSON, NATHANIEL        Age(10)  Swims(12)  Req( 8)                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+   2   GOEPEL, BRODAN             Age(10)  Swims( 3)  Req( 4)  Requires 1 more swim   Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   3   KEARNEY, KAI               Age(10)  Swims( 7)  Req( 8)  Requires 1 more swim   Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   4   SINCLAIR, BRENT            Age(10)  Swims( 9)  Req( 8)                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+   5   TALAY, NED                 Age(10)  Swims( 6)  Req( 8)  Requires 2 more swims  Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+Event 53   25m  Breast   Age(11)  F
+   1   CARTER, AINSLEY            Age(11)  Swims( 1)  Req( 4)  Requires 3 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+   2   FORD, SAMANTHA             Age(11)  Swims(10)  Req( 8)                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+Event 54   25m  Breast   Age(11)  M
+   1   BUTCHER, THOMAS            Age(11)  Swims( 8)  Req( 8)                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   2   KWIK, CODY                 Age(11)  Swims(13)  Req( 8)                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   3   WOODROW, LIAM              Age(11)  Swims( 5)  Req( 8)  Requires 3 more swims  Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+Event 55   50m  Breast   Age(10)  F
+   1   BEARD, OLIVIA              Age(10)  Swims(13)  Req( 8)                         
+   2   CHINN, MADDISON            Age(10)  Swims( 9)  Req( 8)                         
+   3   CHINN, TAYLOR              Age(10)  Swims(10)  Req( 8)                         
+   4   HUSSIE, EMILY              Age(10)  Swims(12)  Req( 8)                         
+   5   SHELLEY, CLAUDIA           Age(10)  Swims(12)  Req( 8)                         
+
+Event 56   50m  Breast   Age(10)  M
+   1   CARTER, SEAN               Age(10)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   2   DALY, LACHLAN              Age(10)  Swims( 8)  Req( 8)                         
+   3   RANN, MATTHEW              Age(10)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   4   REECE, MATTHEW             Age(10)  Swims(12)  Req( 8)                         
+
+Event 57   50m  Breast   Age(11)  F
+   1   ASHCROFT, MONTANA          Age(11)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   2   BENNETT, RYLEIGH           Age(11)  Swims(10)  Req( 8)                         
+   3   CRAMP-CHURCH, WENONA       Age(11)  Swims( 9)  Req( 8)                         
+   4   GALLAGHER, ELISE           Age(11)  Swims( 9)  Req( 8)                         
+   5   PROFKE, CAITLIN            Age(11)  Swims(12)  Req( 8)                         
+   6   WYLDE-BROWN, GABBY         Age(11)  Swims( 4)  Req( 8)  Requires 4 more swims  
+
+Event 58   50m  Breast   Age(11)  M
+   1   ALLEN, JARED               Age(11)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   2   BLANCHFIELD, JACK          Age(11)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   3   DAUNT, CALEB               Age(11)  Swims( 2)  Req( 8)  Requires 6 more swims  
+   4   DENNY, BRANDON             Age(11)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   5   LINNANE, JOSHUA            Age(11)  Swims(12)  Req( 8)                         
+   6   MURRY, LIAM                Age(11)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   7   NISHIDO, TOORU             Age(11)  Swims(12)  Req( 8)                         
+   8   POPE, JAC                  Age(11)  Swims(11)  Req( 8)                         
+   9   SHERRINGTON, LIAM          Age(11)  Swims( 8)  Req( 8)                         
+  10   WHEELER, LUCAS             Age(11)  Swims( 8)  Req( 8)                         
+  11   WILLIAMS, DANIEL           Age(11)  Swims(11)  Req( 8)                         
+  12   WING, LIAM                 Age(11)  Swims( 9)  Req( 8)                         
+
+Event 59   50m  Breast   Age(12)  F
+   1   BELL, LISA                 Age(12)  Swims(10)  Req( 8)                         
+   2   BROMLEY, ALEX              Age(12)  Swims(11)  Req( 8)                         
+   3   FERGUSON, XANTHE           Age(12)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   4   HUSSIE, SARAH              Age(12)  Swims(13)  Req( 8)                         
+   5   MILLER, CAITLIN            Age(12)  Swims( 3)  Req( 8)  Requires 5 more swims  
+   6   MOLLES, MIKALA             Age(12)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   7   RICHARDS, HAYLEY           Age(12)  Swims(10)  Req( 8)                         
+   8   ROBERTS, BROOK             Age(12)  Swims(10)  Req( 8)                         
+   9   SKILLERN, KIRA             Age(12)  Swims(10)  Req( 8)                         
+  10   TALAY, BRONTE              Age(12)  Swims(11)  Req( 8)                         
+
+Event 60   50m  Breast   Age(12)  M
+   1   GOEPEL, KURTIS             Age(12)  Swims( 3)  Req( 4)  Requires 1 more swim   
+   2   LACEY, DANIEL              Age(12)  Swims( 8)  Req( 8)                         
+   3   PLAYER, KIEREN             Age(12)  Swims( 8)  Req( 8)                         
+   4   SHEERAN, JOEL              Age(12)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   5   STANTON, SAM               Age(12)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   6   VIALLE, ANTIONE            Age(12)  Swims( 8)  Req( 8)                         
+
+Event 61   50m  Breast   Age(13)  F
+   1   BLANCHFIELD, MADELINE      Age(13)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   2   BURNETT, EMMA              Age(13)  Swims(12)  Req( 8)                         
+   3   DALY, BRIAHNA              Age(13)  Swims(10)  Req( 8)                         
+   4   FENN, CHANTELLE            Age(13)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   5   MEARNS, HANNAH             Age(13)  Swims(10)  Req( 8)                         
+   6   REECE, HANNAH              Age(13)  Swims(11)  Req( 8)                         
+   7   ROBERTS, SARA              Age(13)  Swims( 9)  Req( 8)                         
+   8   WILLIAMS, MIKAELA          Age(13)  Swims(10)  Req( 8)                         
+
+Event 62   50m  Breast   Age(13)  M
+   1   BOOTH, ANDREW              Age(13)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   2   CHINN, JULIAN              Age(13)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   3   WHEELER, KURTIS            Age(13)  Swims( 9)  Req( 8)                         
+   4   WOODROW, CORMAC            Age(13)  Swims( 9)  Req( 8)                         
+
+Event 63   50m  Breast   Age(14)  F
+   1   BEARD, MADELINE            Age(14)  Swims(11)  Req( 8)                         
+   2   BROMLEY, EMMELIE           Age(14)  Swims(11)  Req( 8)                         
+   3   BROWN, ZOE                 Age(14)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   4   RICHMOND, EMILY            Age(14)  Swims(10)  Req( 8)                         
+
+Event 64   50m  Breast   Age(15)  F
+   1   HENDERSON, MICHELLE        Age(15)  Swims( 9)  Req( 8)                         
+   2   MURRY, YASMIN              Age(15)  Swims( 8)  Req( 8)                         
+
+Event 65   50m  Breast   Age(16 & over)  F
+   1   LACEY, RACHEL              Age(16)  Swims( 8)  Req( 8)                         
+   2   STICK, LISA                Age(16)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   3   WOOD, NICOLE               Age(18)  Swims( 2)  Req( 8)  Requires 6 more swims  
+
+Event 66   50m  Breast   Age(16 & over)  M
+   1   BROMLEY, DILLON            Age(16)  Swims(11)  Req( 8)                         
+   2   O'LEARY, BRENDAN           Age(16)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   3   SULLIVAN, JAKE             Age(16)  Swims( 4)  Req( 8)  Requires 4 more swims  
+
+Event 67   100m  IM   Age(9 & under)  F
+   1   BARWICK, EMMA              Age( 9)  Swims( 1)  Req( 2)  Requires 1 more swim   
+   2   BELL, EMMA                 Age( 9)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   3   MCD-WHITE, JESSICA         Age( 9)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   4   SINCLAIR, EMMA             Age( 8)  Swims( 3)  Req( 3)                         
+   5   WOODROW, BRIDGET           Age( 9)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   6   WORMWELL, OLIVIA           Age( 8)  Swims( 1)  Req( 2)  Requires 1 more swim   
+
+Event 68   100m  IM   Age(9 & under)  M
+   1   CLARKE, ISAAC              Age( 6)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   2   CLARKE, JACKSON            Age( 6)  Swims( 3)  Req( 3)                         
+   3   HANNAM, SOLOMON            Age( 8)  Swims( 3)  Req( 3)                         
+   4   JASINOWICZ, OSCAR          Age( 8)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   5   MAGEE, RYAN                Age( 9)  Swims( 3)  Req( 3)                         
+   6   MCKENZIE, BRODIE           Age( 9)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   7   PERRY, JACOB               Age( 9)  Swims( 3)  Req( 3)                         
+   8   PROFKE, LACHLAN            Age( 9)  Swims( 3)  Req( 3)                         
+   9   ROLLS, BEN                 Age( 9)  Swims( 1)  Req( 3)  Requires 2 more swims  
+  10   SHELLEY, JACK              Age( 8)  Swims( 1)  Req( 2)  Requires 1 more swim   
+  11   SHERRINGTON, CONNOR        Age( 8)  Swims( 4)  Req( 3)                         
+  12   SINCLAIR, JASPER           Age( 8)  Swims( 1)  Req( 3)  Requires 2 more swims  
+  13   WILSON, CONNOR             Age( 9)  Swims( 1)  Req( 3)  Requires 2 more swims  
+  14   WILSON, RILEY              Age( 8)  Swims( 1)  Req( 3)  Requires 2 more swims  
+
+Event 69   100m  IM   Age(10)  F
+   1   BEARD, OLIVIA              Age(10)  Swims( 5)  Req( 3)                         
+   2   CHINN, MADDISON            Age(10)  Swims( 3)  Req( 3)                         
+   3   CHINN, TAYLOR              Age(10)  Swims( 3)  Req( 3)                         
+   4   HUSSIE, EMILY              Age(10)  Swims( 3)  Req( 3)                         
+   5   SHELLEY, CLAUDIA           Age(10)  Swims( 5)  Req( 3)                         
+   6   WING, CARA                 Age(10)  Swims( 1)  Req( 3)  Requires 2 more swims  
+
+Event 70   100m  IM   Age(10)  M
+   1   BENGTSON, NATHANIEL        Age(10)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   2   DALY, LACHLAN              Age(10)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   3   REECE, MATTHEW             Age(10)  Swims( 4)  Req( 3)                         
+   4   SINCLAIR, BRENT            Age(10)  Swims( 2)  Req( 3)  Requires 1 more swim   
+
+Event 71   100m  IM   Age(11)  F
+   1   ASHCROFT, MONTANA          Age(11)  Swims( 1)  Req( 2)  Requires 1 more swim   
+   2   CRAMP-CHURCH, WENONA       Age(11)  Swims( 4)  Req( 3)                         
+   3   GALLAGHER, ELISE           Age(11)  Swims( 4)  Req( 3)                         
+   4   PROFKE, CAITLIN            Age(11)  Swims( 3)  Req( 3)                         
+
+Event 72   100m  IM   Age(11)  M
+   1   BLANCHFIELD, JACK          Age(11)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   2   BUTCHER, THOMAS            Age(11)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   3   NISHIDO, TOORU             Age(11)  Swims( 3)  Req( 3)                         
+   4   SHERRINGTON, LIAM          Age(11)  Swims( 5)  Req( 3)                         
+   5   WHEELER, LUCAS             Age(11)  Swims( 4)  Req( 3)                         
+   6   WING, LIAM                 Age(11)  Swims( 1)  Req( 3)  Requires 2 more swims  
+
+Event 73   100m  IM   Age(12)  F
+   1   BELL, LISA                 Age(12)  Swims( 3)  Req( 3)                         
+   2   BROMLEY, ALEX              Age(12)  Swims( 3)  Req( 3)                         
+   3   HUSSIE, SARAH              Age(12)  Swims( 5)  Req( 3)                         
+   4   RICHARDS, HAYLEY           Age(12)  Swims( 3)  Req( 3)                         
+   5   ROBERTS, BROOK             Age(12)  Swims( 4)  Req( 3)                         
+   6   SKILLERN, KIRA             Age(12)  Swims( 4)  Req( 3)                         
+
+Event 74   100m  IM   Age(12)  M
+   1   LACEY, DANIEL              Age(12)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   2   PLAYER, KIEREN             Age(12)  Swims( 3)  Req( 3)                         
+   3   STANTON, SAM               Age(12)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   4   VIALLE, ANTIONE            Age(12)  Swims( 3)  Req( 3)                         
+
+Event 75   100m  IM   Age(13)  F
+   1   BLANCHFIELD, MADELINE      Age(13)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   2   BURNETT, EMMA              Age(13)  Swims( 3)  Req( 3)                         
+   3   DALY, BRIAHNA              Age(13)  Swims( 4)  Req( 3)                         
+   4   MEARNS, HANNAH             Age(13)  Swims( 3)  Req( 3)                         
+   5   REECE, HANNAH              Age(13)  Swims( 3)  Req( 3)                         
+   6   WILLIAMS, MIKAELA          Age(13)  Swims( 6)  Req( 3)                         
+
+Event 76   100m  IM   Age(13)  M
+   1   BOOTH, ANDREW              Age(13)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   2   CHINN, JULIAN              Age(13)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   3   WHEELER, KURTIS            Age(13)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   4   WOODROW, CORMAC            Age(13)  Swims( 4)  Req( 3)                         
+
+Event 77   100m  IM   Age(14)  F
+   1   BEARD, MADELINE            Age(14)  Swims( 3)  Req( 3)                         
+   2   BROMLEY, EMMELIE           Age(14)  Swims( 4)  Req( 3)                         
+
+Event 78   100m  IM   Age(15)  F
+   1   MURRY, YASMIN              Age(15)  Swims( 3)  Req( 3)                         
+
+Event 79   100m  IM   Age(16 & over)  M
+   1   BROMLEY, DILLON            Age(16)  Swims( 5)  Req( 3)                         
+   2   O'LEARY, BRENDAN           Age(16)  Swims( 2)  Req( 3)  Requires 1 more swim   
+
+Event 80   25m  Fly   Age(6)  F
+   1   HANNAM, MERCEDES           Age( 6)  Swims(11)  Req( 8)                         
+   2   PERRY, EMMA                Age( 6)  Swims( 6)  Req( 8)  Requires 2 more swims  
+
+Event 81   25m  Fly   Age(6)  M
+   1   CLARKE, ISAAC              Age( 6)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   2   CLARKE, JACKSON            Age( 6)  Swims(11)  Req( 8)                         
+   3   POPE, MAX                  Age( 6)  Swims(10)  Req( 8)                         
+   4   WILSON, FINNEAN            Age( 6)  Swims( 3)  Req( 4)  Requires 1 more swim   
+
+Event 82   25m  Fly   Age(7)  F
+   1   JONES, ANNABELLE           Age( 7)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   2   MAGEE, ASHLEIGH            Age( 7)  Swims(11)  Req( 8)                         
+
+Event 83   25m  Fly   Age(7)  M
+   1   BOOTH, BENJAMIN            Age( 7)  Swims(11)  Req( 8)                         
+   2   CALLAN, NOAH               Age( 7)  Swims( 1)  Req( 4)  Requires 3 more swims  
+   3   CALLAN, WILL               Age( 7)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   4   DAVIS, BLAKE               Age( 7)  Swims( 1)  Req( 4)  Requires 3 more swims  
+   5   GALLAGHER, DANIEL          Age( 7)  Swims( 4)  Req( 4)                         
+   6   PUCEK, PETER               Age( 7)  Swims(10)  Req( 8)                         
+   7   ROLLS, PATRICK             Age( 7)  Swims( 3)  Req( 8)  Requires 5 more swims  
+
+Event 84   25m  Fly   Age(8)  F
+   1   KRONENBERG, GRACE          Age( 8)  Swims( 1)  Req( 4)  Requires 3 more swims  
+   2   ROBERTS, ARIELLE           Age( 8)  Swims( 1)  Req( 8)  Requires 7 more swims  
+   3   SINCLAIR, ABBY             Age( 8)  Swims( 2)  Req( 8)  Requires 6 more swims  
+   4   SINCLAIR, EMMA             Age( 8)  Swims(10)  Req( 8)                         
+   5   WORMWELL, OLIVIA           Age( 8)  Swims( 7)  Req( 8)  Requires 1 more swim   
+
+Event 85   25m  Fly   Age(8)  M
+   1   FUKUSHIGE, JOSHUA          Age( 8)  Swims( 1)  Req( 8)  Requires 7 more swims  
+   2   HANNAM, SOLOMON            Age( 8)  Swims(10)  Req( 8)                         
+   3   JASINOWICZ, OSCAR          Age( 8)  Swims( 8)  Req( 8)                         
+   4   JEFFREY, TOM               Age( 8)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   5   PRATT, JOSH                Age( 8)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   6   SHELLEY, JACK              Age( 8)  Swims(10)  Req( 8)                         
+   7   SHERRINGTON, CONNOR        Age( 8)  Swims(11)  Req( 8)                         
+   8   SINCLAIR, JASPER           Age( 8)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   9   TALAY, ARCHIE              Age( 8)  Swims( 3)  Req( 8)  Requires 5 more swims  
+  10   THOMPSON, JAMES            Age( 8)  Swims(10)  Req( 8)                         
+  11   TUITE, ZANE                Age( 8)  Swims( 8)  Req( 8)                         
+  12   WILSON, RILEY              Age( 8)  Swims(11)  Req( 8)                         
+  13   WYLDE-BROWN, JUSTIN        Age( 8)  Swims( 8)  Req( 8)                         
+
+Event 86   25m  Fly   Age(9)  F
+   1   BARWICK, EMMA              Age( 9)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   2   BELL, EMMA                 Age( 9)  Swims( 9)  Req( 8)                         
+   3   CREANEY, JESSICA           Age( 9)  Swims( 1)  Req( 8)  Requires 7 more swims  
+   4   MCD-WHITE, JESSICA         Age( 9)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   5   STANTON, JEMIMAH           Age( 9)  Swims( 2)  Req( 8)  Requires 6 more swims  
+   6   WOODROW, BRIDGET           Age( 9)  Swims( 8)  Req( 8)                         
+   7   ZOCH, ELOISE               Age( 9)  Swims( 9)  Req( 8)                         
+
+Event 87   25m  Fly   Age(9)  M
+   1   DAUNT, ELI                 Age( 9)  Swims( 9)  Req( 8)                         
+   2   EADIE, NICK                Age( 9)  Swims( 1)  Req( 8)  Requires 7 more swims  
+   3   KING, JAMES                Age( 9)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   4   MAGEE, RYAN                Age( 9)  Swims(12)  Req( 8)                         
+   5   MCKENZIE, BRODIE           Age( 9)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   6   PERRY, JACOB               Age( 9)  Swims(11)  Req( 8)                         
+   7   PROFKE, LACHLAN            Age( 9)  Swims(12)  Req( 8)                         
+   8   ROLLS, BEN                 Age( 9)  Swims(10)  Req( 8)                         
+   9   SMITH, KURTIS              Age( 9)  Swims( 9)  Req( 8)                         
+  10   WILSON, CONNOR             Age( 9)  Swims( 9)  Req( 8)                         
+
+Event 88   25m  Fly   Age(10)  F
+   1   BEARD, OLIVIA              Age(10)  Swims( 9)  Req( 8)                         
+   2   CHINN, MADDISON            Age(10)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   3   CHINN, TAYLOR              Age(10)  Swims( 9)  Req( 8)                         
+   4   CROSS, JACINTA             Age(10)  Swims(10)  Req( 8)                         
+   5   DAVIS, JASMINE             Age(10)  Swims( 1)  Req( 4)  Requires 3 more swims  
+   6   FERGUSON, DARIA            Age(10)  Swims( 2)  Req( 8)  Requires 6 more swims  
+   7   HUSSIE, EMILY              Age(10)  Swims( 9)  Req( 8)                         
+   8   MARK, EMILY                Age(10)  Swims( 9)  Req( 8)                         
+   9   ROBERTSON, JAZMIN          Age(10)  Swims( 4)  Req( 4)                         
+  10   SHELLEY, CLAUDIA           Age(10)  Swims(10)  Req( 8)                         
+  11   SMITH, JESSICA             Age(10)  Swims( 8)  Req( 8)                         
+  12   SMITH, SIDONIE             Age(10)  Swims(10)  Req( 8)                         
+  13   WING, CARA                 Age(10)  Swims( 7)  Req( 8)  Requires 1 more swim   
+
+Event 89   25m  Fly   Age(10)  M
+   1   BENGTSON, NATHANIEL        Age(10)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   2   DALY, LACHLAN              Age(10)  Swims( 8)  Req( 8)                         
+   3   RANN, MATTHEW              Age(10)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   4   REECE, MATTHEW             Age(10)  Swims(11)  Req( 8)                         
+   5   SINCLAIR, BRENT            Age(10)  Swims( 8)  Req( 8)                         
+
+Event 90   25m  Fly   Age(11)  F
+   1   ASHCROFT, MONTANA          Age(11)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   2   BENNETT, RYLEIGH           Age(11)  Swims( 8)  Req( 8)                         
+   3   CRAMP-CHURCH, WENONA       Age(11)  Swims(10)  Req( 8)                         
+   4   FORD, SAMANTHA             Age(11)  Swims( 9)  Req( 8)                         
+   5   GALLAGHER, ELISE           Age(11)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   6   PROFKE, CAITLIN            Age(11)  Swims(12)  Req( 8)                         
+
+Event 91   25m  Fly   Age(11)  M
+   1   ALLEN, JARED               Age(11)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   2   BLANCHFIELD, JACK          Age(11)  Swims( 2)  Req( 8)  Requires 6 more swims  
+   3   BUTCHER, THOMAS            Age(11)  Swims( 8)  Req( 8)                         
+   4   DENNY, BRANDON             Age(11)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   5   KWIK, CODY                 Age(11)  Swims(10)  Req( 8)                         
+   6   NISHIDO, TOORU             Age(11)  Swims(12)  Req( 8)                         
+   7   POPE, JAC                  Age(11)  Swims( 8)  Req( 8)                         
+   8   SHERRINGTON, LIAM          Age(11)  Swims(11)  Req( 8)                         
+   9   WHEELER, LUCAS             Age(11)  Swims( 7)  Req( 8)  Requires 1 more swim   
+  10   WILLIAMS, DANIEL           Age(11)  Swims(11)  Req( 8)                         
+  11   WING, LIAM                 Age(11)  Swims( 8)  Req( 8)                         
+
+Event 92   25m  Fly   Age(12)  F
+   1   FERGUSON, XANTHE           Age(12)  Swims( 6)  Req( 8)  Requires 2 more swims  Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   2   MOLLES, MIKALA             Age(12)  Swims( 7)  Req( 8)  Requires 1 more swim   Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+   3   RICHARDS, HAYLEY           Age(12)  Swims( 9)  Req( 8)                         Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+
+Event 93   50m  Fly   Age(12)  F
+   1   BELL, LISA                 Age(12)  Swims( 8)  Req( 8)                         
+   2   BROMLEY, ALEX              Age(12)  Swims( 8)  Req( 8)                         
+   3   HUSSIE, SARAH              Age(12)  Swims(10)  Req( 8)                         
+   4   ROBERTS, BROOK             Age(12)  Swims( 9)  Req( 8)                         
+   5   SKILLERN, KIRA             Age(12)  Swims(11)  Req( 8)                         
+
+Event 94   50m  Fly   Age(12)  M
+   1   LACEY, DANIEL              Age(12)  Swims( 8)  Req( 8)                         
+   2   PLAYER, KIEREN             Age(12)  Swims( 9)  Req( 8)                         
+   3   SHEERAN, JOEL              Age(12)  Swims( 2)  Req( 8)  Requires 6 more swims  
+
+Event 95   50m  Fly   Age(13)  F
+   1   BURNETT, EMMA              Age(13)  Swims(10)  Req( 8)                         
+   2   DALY, BRIAHNA              Age(13)  Swims( 8)  Req( 8)                         
+   3   MEARNS, HANNAH             Age(13)  Swims( 9)  Req( 8)                         
+   4   REECE, HANNAH              Age(13)  Swims(10)  Req( 8)                         
+   5   WILLIAMS, MIKAELA          Age(13)  Swims( 8)  Req( 8)                         
+
+Event 96   50m  Fly   Age(13)  M
+   1   BOOTH, ANDREW              Age(13)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   2   CHINN, JULIAN              Age(13)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   3   WHEELER, KURTIS            Age(13)  Swims(10)  Req( 8)                         
+   4   WOODROW, CORMAC            Age(13)  Swims( 7)  Req( 8)  Requires 1 more swim   
+
+Event 97   50m  Fly   Age(14)  F
+   1   BEARD, MADELINE            Age(14)  Swims(10)  Req( 8)                         
+   2   BROMLEY, EMMELIE           Age(14)  Swims( 9)  Req( 8)                         
+   3   BROWN, ZOE                 Age(14)  Swims( 1)  Req( 8)  Requires 7 more swims  
+
+Event 98   50m  Fly   Age(15)  F
+   1   HENDERSON, MICHELLE        Age(15)  Swims( 8)  Req( 8)                         
+   2   MURRY, YASMIN              Age(15)  Swims( 9)  Req( 8)                         
+
+Event 99   50m  Fly   Age(16 & over)  M
+   1   BROMLEY, DILLON            Age(16)  Swims( 8)  Req( 8)                         
+   2   O'LEARY, BRENDAN           Age(16)  Swims( 2)  Req( 8)  Requires 6 more swims  
+
+Event 100   100m  Free   Age(9 & under)  F
+   1   BELL, EMMA                 Age( 9)  Swims( 3)  Req( 3)                         
+   2   CAMPBELL, ANNE             Age( 8)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   3   MCD-WHITE, JESSICA         Age( 9)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   4   SINCLAIR, EMMA             Age( 8)  Swims( 3)  Req( 3)                         
+
+Event 101   100m  Free   Age(9 & under)  M
+   1   CLARKE, ISAAC              Age( 6)  Swims( 3)  Req( 3)                         
+   2   CLARKE, JACKSON            Age( 6)  Swims( 3)  Req( 3)                         
+   3   HANNAM, SOLOMON            Age( 8)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   4   JASINOWICZ, OSCAR          Age( 8)  Swims( 3)  Req( 3)                         
+   5   KING, JAMES                Age( 9)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   6   MAGEE, RYAN                Age( 9)  Swims( 4)  Req( 3)                         
+   7   PERRY, JACOB               Age( 9)  Swims( 3)  Req( 3)                         
+   8   PROFKE, LACHLAN            Age( 9)  Swims( 3)  Req( 3)                         
+   9   SHELLEY, JACK              Age( 8)  Swims( 1)  Req( 2)  Requires 1 more swim   
+  10   SHERRINGTON, CONNOR        Age( 8)  Swims( 3)  Req( 3)                         
+  11   SINCLAIR, JASPER           Age( 8)  Swims( 1)  Req( 3)  Requires 2 more swims  
+  12   WILSON, CONNOR             Age( 9)  Swims( 2)  Req( 3)  Requires 1 more swim   
+  13   WILSON, RILEY              Age( 8)  Swims( 4)  Req( 3)                         
+
+Event 102   100m  Free   Age(10)  F
+   1   BEARD, OLIVIA              Age(10)  Swims( 3)  Req( 3)                         
+   2   CHINN, MADDISON            Age(10)  Swims( 3)  Req( 3)                         
+   3   CHINN, TAYLOR              Age(10)  Swims( 3)  Req( 3)                         
+   4   SHELLEY, CLAUDIA           Age(10)  Swims( 2)  Req( 3)  Requires 1 more swim   
+
+Event 103   100m  Free   Age(10)  M
+   1   DALY, LACHLAN              Age(10)  Swims( 3)  Req( 3)                         
+   2   REECE, MATTHEW             Age(10)  Swims( 3)  Req( 3)                         
+   3   SINCLAIR, BRENT            Age(10)  Swims( 3)  Req( 3)                         
+
+Event 104   100m  Free   Age(11)  F
+   1   ASHCROFT, MONTANA          Age(11)  Swims( 1)  Req( 2)  Requires 1 more swim   
+   2   CRAMP-CHURCH, WENONA       Age(11)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   3   GALLAGHER, ELISE           Age(11)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   4   PROFKE, CAITLIN            Age(11)  Swims( 4)  Req( 3)                         
+
+Event 105   100m  Free   Age(11)  M
+   1   BLANCHFIELD, JACK          Age(11)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   2   BUTCHER, THOMAS            Age(11)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   3   DENNY, BRANDON             Age(11)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   4   NISHIDO, TOORU             Age(11)  Swims( 4)  Req( 3)                         
+   5   POPE, JAC                  Age(11)  Swims( 3)  Req( 3)                         
+   6   SHERRINGTON, LIAM          Age(11)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   7   WHEELER, LUCAS             Age(11)  Swims( 3)  Req( 3)                         
+   8   WING, LIAM                 Age(11)  Swims( 1)  Req( 3)  Requires 2 more swims  
+
+Event 106   100m  Free   Age(12)  F
+   1   BELL, LISA                 Age(12)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   2   BROMLEY, ALEX              Age(12)  Swims( 3)  Req( 3)                         
+   3   HUSSIE, SARAH              Age(12)  Swims( 3)  Req( 3)                         
+   4   MOLLES, MIKALA             Age(12)  Swims( 2)  Req( 3)  Requires 1 more swim   
+
+Event 107   100m  Free   Age(12)  M
+   1   LACEY, DANIEL              Age(12)  Swims( 2)  Req( 3)  Requires 1 more swim   
+   2   PLAYER, KIEREN             Age(12)  Swims( 5)  Req( 3)                         
+   3   VIALLE, ANTIONE            Age(12)  Swims( 4)  Req( 3)                         
+
+Event 108   100m  Free   Age(13)  F
+   1   BLANCHFIELD, MADELINE      Age(13)  Swims( 5)  Req( 3)                         
+   2   BURNETT, EMMA              Age(13)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   3   DALY, BRIAHNA              Age(13)  Swims( 3)  Req( 3)                         
+   4   MEARNS, HANNAH             Age(13)  Swims( 1)  Req( 3)  Requires 2 more swims  
+   5   REECE, HANNAH              Age(13)  Swims( 4)  Req( 3)                         
+   6   WILLIAMS, MIKAELA          Age(13)  Swims( 1)  Req( 3)  Requires 2 more swims  
+
+Event 109   100m  Free   Age(13)  M
+   1   BOOTH, ANDREW              Age(13)  Swims( 3)  Req( 3)                         
+   2   CHINN, JULIAN              Age(13)  Swims( 4)  Req( 3)                         
+   3   WHEELER, KURTIS            Age(13)  Swims( 3)  Req( 3)                         
+   4   WOODROW, CORMAC            Age(13)  Swims( 3)  Req( 3)                         
+
+Event 110   100m  Free   Age(14)  F
+   1   BEARD, MADELINE            Age(14)  Swims( 5)  Req( 3)                         
+   2   BROMLEY, EMMELIE           Age(14)  Swims( 6)  Req( 3)                         
+
+Event 111   100m  Free   Age(14)  M
+   1   RANN, JOSHUA               Age(14)  Swims( 3)  Req( 3)                         
+
+Event 112   100m  Free   Age(15)  F
+   1   MURRY, YASMIN              Age(15)  Swims( 3)  Req( 3)                         
+
+Event 113   100m  Free   Age(16 & over)  M
+   1   BROMLEY, DILLON            Age(16)  Swims( 4)  Req( 3)                         
+   2   O'LEARY, BRENDAN           Age(16)  Swims( 2)  Req( 3)  Requires 1 more swim   
+
+Event 114   25m  Free   Age(5)  F
+   1   CHECKLEY, YASMIN           Age( 5)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   2   I'IGA, CLAUDIA             Age( 5)  Swims( 9)  Req( 8)                         
+
+Event 115   25m  Free   Age(5)  M
+   1   CLEMENT, JORDAN            Age( 5)  Swims( 4)  Req( 4)                         
+   2   PRATT, RYAN                Age( 5)  Swims( 1)  Req( 4)  Requires 3 more swims  
+   3   PROFKE, JOSH               Age( 5)  Swims( 4)  Req( 4)                         
+   4   THOMPSON, GEORGE           Age( 5)  Swims( 1)  Req( 4)  Requires 3 more swims  
+
+Event 116   25m  Free   Age(6)  F
+   1   BARTLETT, JACINTA          Age( 6)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   2   CROSS, MIKAYLA             Age( 6)  Swims(13)  Req( 8)                         
+   3   DI BELLA, ADRIANA          Age( 6)  Swims( 1)  Req( 8)  Requires 7 more swims  
+   4   HANNAM, MERCEDES           Age( 6)  Swims(10)  Req( 8)                         
+   5   MCKENZIE, KIRA             Age( 6)  Swims( 9)  Req( 8)                         
+   6   PERRY, EMMA                Age( 6)  Swims(12)  Req( 8)                         
+
+Event 117   25m  Free   Age(6)  M
+   1   BARWICK, OSCAR             Age( 6)  Swims( 1)  Req( 4)  Requires 3 more swims  
+   2   CLARKE, ISAAC              Age( 6)  Swims( 8)  Req( 8)                         
+   3   CLARKE, JACKSON            Age( 6)  Swims(13)  Req( 8)                         
+   4   FUKUSHIGE, MATTHEW         Age( 6)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   5   MARK, HARRISON             Age( 6)  Swims( 4)  Req( 4)                         
+   6   MC CLINTOCK, BAILEY        Age( 6)  Swims(10)  Req( 8)                         
+   7   MOLLES, CALLUM             Age( 6)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   8   POPE, MAX                  Age( 6)  Swims(12)  Req( 8)                         
+   9   WILSON, FINNEAN            Age( 6)  Swims(12)  Req( 8)                         
+
+Event 118   25m  Free   Age(7)  F
+   1   DE BARITAULT, EMILIA       Age( 7)  Swims(11)  Req( 8)                         
+   2   JONES, ANNABELLE           Age( 7)  Swims(11)  Req( 8)                         
+   3   KING, LARA                 Age( 7)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   4   KWIK, ALANA                Age( 7)  Swims( 3)  Req( 4)  Requires 1 more swim   
+   5   MAGEE, ASHLEIGH            Age( 7)  Swims(13)  Req( 8)                         
+   6   NEAL, JULIETTE             Age( 7)  Swims( 3)  Req( 8)  Requires 5 more swims  
+
+Event 119   25m  Free   Age(7)  M
+   1   BOOTH, BENJAMIN            Age( 7)  Swims(12)  Req( 8)                         
+   2   CALLAN, NOAH               Age( 7)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   3   CALLAN, WILL               Age( 7)  Swims( 8)  Req( 8)                         
+   4   DAVIS, BLAKE               Age( 7)  Swims( 9)  Req( 8)                         
+   5   GALLAGHER, DANIEL          Age( 7)  Swims(11)  Req( 8)                         
+   6   MOLLES, ETHAN              Age( 7)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   7   PUCEK, PETER               Age( 7)  Swims(12)  Req( 8)                         
+   8   ROLLS, PATRICK             Age( 7)  Swims(12)  Req( 8)                         
+   9   SHELLEY, JOSEPH            Age( 7)  Swims(10)  Req( 8)                         
+  10   SMITH, THOMAS              Age( 7)  Swims(12)  Req( 8)                         
+
+Event 120   25m  Free   Age(8)  F
+   1   BARTLETT, MIKAYLA          Age( 8)  Swims( 9)  Req( 8)                         
+   2   CAMPBELL, ANNE             Age( 8)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   3   KRONENBERG, GRACE          Age( 8)  Swims(10)  Req( 8)                         
+   4   KWIK, JESSICA              Age( 8)  Swims(12)  Req( 8)                         
+   5   LINNANE, MADDISON          Age( 8)  Swims(10)  Req( 8)                         
+   6   ROBERTS, ARIELLE           Age( 8)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   7   SINCLAIR, ABBY             Age( 8)  Swims( 9)  Req( 8)                         
+   8   SINCLAIR, EMMA             Age( 8)  Swims(10)  Req( 8)                         
+   9   WILLIAMS, ALLY             Age( 8)  Swims(11)  Req( 8)                         
+  10   WORMWELL, OLIVIA           Age( 8)  Swims( 6)  Req( 8)  Requires 2 more swims  
+
+Event 121   25m  Free   Age(8)  M
+   1   CHECKLEY, KALEB            Age( 8)  Swims( 7)  Req( 8)  Requires 1 more swim   
+   2   FUKUSHIGE, JOSHUA          Age( 8)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   3   GREGG, CALLAN              Age( 8)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   4   HANNAM, SOLOMON            Age( 8)  Swims(10)  Req( 8)                         
+   5   JASINOWICZ, OSCAR          Age( 8)  Swims( 9)  Req( 8)                         
+   6   JEFFREY, TOM               Age( 8)  Swims(10)  Req( 8)                         
+   7   PRATT, JOSH                Age( 8)  Swims(10)  Req( 8)                         
+   8   SHELLEY, JACK              Age( 8)  Swims(11)  Req( 8)                         
+   9   SHERRINGTON, CONNOR        Age( 8)  Swims(12)  Req( 8)                         
+  10   SINCLAIR, JASPER           Age( 8)  Swims( 9)  Req( 8)                         
+  11   TALAY, ARCHIE              Age( 8)  Swims( 7)  Req( 8)  Requires 1 more swim   
+  12   THOMPSON, JAMES            Age( 8)  Swims(13)  Req( 8)                         
+  13   TUITE, ZANE                Age( 8)  Swims(11)  Req( 8)                         
+  14   WILSON, RILEY              Age( 8)  Swims(11)  Req( 8)                         
+  15   WYLDE-BROWN, JUSTIN        Age( 8)  Swims(10)  Req( 8)                         
+
+Event 122   25m  Free   Age(9)  F
+   1   BARWICK, EMMA              Age( 9)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   2   BELL, EMMA                 Age( 9)  Swims( 9)  Req( 8)                         
+   3   CREANEY, JESSICA           Age( 9)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   4   DE BARITAULT, GABRIELLE    Age( 9)  Swims(10)  Req( 8)                         
+   5   DI BELLA, GABRIELLA        Age( 9)  Swims( 8)  Req( 8)                         
+   6   MASSEY, GEORGIA            Age( 9)  Swims( 3)  Req( 8)  Requires 5 more swims  
+   7   MC CLINTOCK, ASTBREY       Age( 9)  Swims( 9)  Req( 8)                         
+   8   MCD-WHITE, JESSICA         Age( 9)  Swims( 8)  Req( 8)                         
+   9   STANTON, BRYONY            Age( 9)  Swims( 5)  Req( 8)  Requires 3 more swims  
+  10   STANTON, JEMIMAH           Age( 9)  Swims( 4)  Req( 8)  Requires 4 more swims  
+  11   WOODROW, BRIDGET           Age( 9)  Swims( 8)  Req( 8)                         
+  12   ZOCH, ELOISE               Age( 9)  Swims( 8)  Req( 8)                         
+
+Event 123   25m  Free   Age(9)  M
+   1   DAUNT, ELI                 Age( 9)  Swims(12)  Req( 8)                         
+   2   EADIE, NICK                Age( 9)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   3   KING, JAMES                Age( 9)  Swims( 9)  Req( 8)                         
+   4   MAGEE, RYAN                Age( 9)  Swims(12)  Req( 8)                         
+   5   MCKENZIE, BRODIE           Age( 9)  Swims( 9)  Req( 8)                         
+   6   MITCHELL, JOEL             Age( 9)  Swims( 1)  Req( 8)  Requires 7 more swims  
+   7   PERRY, JACOB               Age( 9)  Swims(12)  Req( 8)                         
+   8   PROFKE, LACHLAN            Age( 9)  Swims(11)  Req( 8)                         
+   9   ROLLS, BEN                 Age( 9)  Swims(10)  Req( 8)                         
+  10   SMITH, KURTIS              Age( 9)  Swims(12)  Req( 8)                         
+  11   WILSON, CONNOR             Age( 9)  Swims(10)  Req( 8)                         
+
+Event 124   25m  Free   Age(10)  F
+   1   FERGUSON, DARIA            Age(10)  Swims( 2)  Req( 8)  Requires 6 more swims  Older swimmer that has qualified for but never swum 50m. Consider swimming 50m. May choose to swim 50m at club champs.
+   2   MARK, EMILY                Age(10)  Swims(13)  Req( 8)                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+Event 125   25m  Free   Age(10)  M
+   1   BENGTSON, NATHANIEL        Age(10)  Swims(12)  Req( 8)                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+   2   CARTER, SEAN               Age(10)  Swims( 2)  Req( 4)  Requires 2 more swims  Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   3   SINCLAIR, BRENT            Age(10)  Swims( 9)  Req( 8)                         Older swimmer that has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+Event 126   25m  Free   Age(11)  M
+   1   BUTCHER, THOMAS            Age(11)  Swims( 8)  Req( 8)                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   2   KWIK, CODY                 Age(11)  Swims(13)  Req( 8)                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   3   WILLIAMS, DANIEL           Age(11)  Swims(11)  Req( 8)                         Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+   4   WOODROW, LIAM              Age(11)  Swims( 4)  Req( 8)  Requires 4 more swims  Older swimmer that has swum but has not yet qualified for 50m. May choose to swim 50m at club champs.
+
+Event 127   50m  Free   Age(10)  F
+   1   BEARD, OLIVIA              Age(10)  Swims(11)  Req( 8)                         
+   2   CHINN, MADDISON            Age(10)  Swims(10)  Req( 8)                         
+   3   CHINN, TAYLOR              Age(10)  Swims(10)  Req( 8)                         
+   4   CROSS, JACINTA             Age(10)  Swims(11)  Req( 8)                         
+   5   DAVIS, JASMINE             Age(10)  Swims( 9)  Req( 8)                         
+   6   HUSSIE, EMILY              Age(10)  Swims(12)  Req( 8)                         
+   7   ROBERTSON, JAZMIN          Age(10)  Swims( 4)  Req( 4)                         
+   8   SHELLEY, CLAUDIA           Age(10)  Swims(12)  Req( 8)                         
+   9   SMITH, JESSICA             Age(10)  Swims(13)  Req( 8)                         
+  10   SMITH, SIDONIE             Age(10)  Swims(12)  Req( 8)                         
+  11   WING, CARA                 Age(10)  Swims( 9)  Req( 8)                         
+
+Event 128   50m  Free   Age(10)  M
+   1   DALY, LACHLAN              Age(10)  Swims( 8)  Req( 8)                         
+   2   GOEPEL, BRODAN             Age(10)  Swims( 3)  Req( 4)  Requires 1 more swim   
+   3   KEARNEY, KAI               Age(10)  Swims( 8)  Req( 8)                         
+   4   RANN, MATTHEW              Age(10)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   5   REECE, MATTHEW             Age(10)  Swims(12)  Req( 8)                         
+   6   TALAY, NED                 Age(10)  Swims( 6)  Req( 8)  Requires 2 more swims  
+
+Event 129   50m  Free   Age(11)  F
+   1   ASHCROFT, MONTANA          Age(11)  Swims( 2)  Req( 4)  Requires 2 more swims  
+   2   BENNETT, RYLEIGH           Age(11)  Swims(10)  Req( 8)                         
+   3   CRAMP-CHURCH, WENONA       Age(11)  Swims(11)  Req( 8)                         
+   4   FORD, SAMANTHA             Age(11)  Swims(10)  Req( 8)                         
+   5   GALLAGHER, ELISE           Age(11)  Swims( 9)  Req( 8)                         
+   6   PROFKE, CAITLIN            Age(11)  Swims(10)  Req( 8)                         
+   7   WYLDE-BROWN, GABBY         Age(11)  Swims( 8)  Req( 8)                         
+
+Event 130   50m  Free   Age(11)  M
+   1   ALLEN, JARED               Age(11)  Swims(10)  Req( 8)                         
+   2   BLANCHFIELD, JACK          Age(11)  Swims( 8)  Req( 8)                         
+   3   DENNY, BRANDON             Age(11)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   4   LINNANE, JOSHUA            Age(11)  Swims(12)  Req( 8)                         
+   5   MURRY, LIAM                Age(11)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   6   NISHIDO, TOORU             Age(11)  Swims(12)  Req( 8)                         
+   7   POPE, JAC                  Age(11)  Swims(11)  Req( 8)                         
+   8   SHERRINGTON, LIAM          Age(11)  Swims(14)  Req( 8)                         
+   9   WHEELER, LUCAS             Age(11)  Swims(10)  Req( 8)                         
+  10   WING, LIAM                 Age(11)  Swims(10)  Req( 8)                         
+
+Event 131   50m  Free   Age(12)  F
+   1   BELL, LISA                 Age(12)  Swims(10)  Req( 8)                         
+   2   BROMLEY, ALEX              Age(12)  Swims(11)  Req( 8)                         
+   3   FERGUSON, XANTHE           Age(12)  Swims(11)  Req( 8)                         
+   4   HUSSIE, SARAH              Age(12)  Swims(11)  Req( 8)                         
+   5   MILLER, CAITLIN            Age(12)  Swims( 8)  Req( 8)                         
+   6   MOLLES, MIKALA             Age(12)  Swims(10)  Req( 8)                         
+   7   RICHARDS, HAYLEY           Age(12)  Swims(10)  Req( 8)                         
+   8   ROBERTS, BROOK             Age(12)  Swims(11)  Req( 8)                         
+   9   SKILLERN, KIRA             Age(12)  Swims(12)  Req( 8)                         
+  10   TALAY, BRONTE              Age(12)  Swims(10)  Req( 8)                         
+
+Event 132   50m  Free   Age(12)  M
+   1   GOEPEL, KURTIS             Age(12)  Swims( 3)  Req( 4)  Requires 1 more swim   
+   2   LACEY, DANIEL              Age(12)  Swims( 8)  Req( 8)                         
+   3   PLAYER, KIEREN             Age(12)  Swims(10)  Req( 8)                         
+   4   SHEERAN, JOEL              Age(12)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   5   STANTON, SAM               Age(12)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   6   VIALLE, ANTIONE            Age(12)  Swims( 6)  Req( 8)  Requires 2 more swims  
+
+Event 133   50m  Free   Age(13)  F
+   1   BLANCHFIELD, MADELINE      Age(13)  Swims( 8)  Req( 8)                         
+   2   BURNETT, EMMA              Age(13)  Swims(12)  Req( 8)                         
+   3   DALY, BRIAHNA              Age(13)  Swims(10)  Req( 8)                         
+   4   FENN, CHANTELLE            Age(13)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   5   MEARNS, HANNAH             Age(13)  Swims( 9)  Req( 8)                         
+   6   REECE, HANNAH              Age(13)  Swims(10)  Req( 8)                         
+   7   ROBERTS, SARA              Age(13)  Swims( 9)  Req( 8)                         
+   8   WILLIAMS, MIKAELA          Age(13)  Swims(11)  Req( 8)                         
+
+Event 134   50m  Free   Age(13)  M
+   1   BOOTH, ANDREW              Age(13)  Swims( 4)  Req( 8)  Requires 4 more swims  
+   2   CHINN, JULIAN              Age(13)  Swims( 5)  Req( 8)  Requires 3 more swims  
+   3   WHEELER, KURTIS            Age(13)  Swims(10)  Req( 8)                         
+   4   WOODROW, CORMAC            Age(13)  Swims( 8)  Req( 8)                         
+
+Event 135   50m  Free   Age(14)  F
+   1   BEARD, MADELINE            Age(14)  Swims( 9)  Req( 8)                         
+   2   BROMLEY, EMMELIE           Age(14)  Swims( 9)  Req( 8)                         
+   3   BROWN, ZOE                 Age(14)  Swims( 2)  Req( 8)  Requires 6 more swims  
+   4   RICHMOND, EMILY            Age(14)  Swims( 9)  Req( 8)                         
+
+Event 136   50m  Free   Age(15)  F
+   1   HENDERSON, MICHELLE        Age(15)  Swims( 8)  Req( 8)                         
+   2   MURRY, YASMIN              Age(15)  Swims( 8)  Req( 8)                         
+
+Event 137   50m  Free   Age(16 & over)  F
+   1   LACEY, RACHEL              Age(16)  Swims( 8)  Req( 8)                         
+   2   STICK, LISA                Age(16)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   3   WOOD, NICOLE               Age(18)  Swims( 2)  Req( 8)  Requires 6 more swims  
+
+Event 138   50m  Free   Age(16 & over)  M
+   1   BROMLEY, DILLON            Age(16)  Swims( 9)  Req( 8)                         
+   2   O'LEARY, BRENDAN           Age(16)  Swims( 6)  Req( 8)  Requires 2 more swims  
+   3   SULLIVAN, JAKE             Age(16)  Swims( 8)  Req( 8)                         
+
