@@ -16,13 +16,13 @@
         <repository>
             <id>internal.nexus</id>
             <name>Xandar Repository</name>
-            <url>http://rasta:8081/nexus/content/repositories/releases</url>
+            <url>http://insomniac:8081/nexus/content/repositories/releases</url>
         </repository>
 
         <snapshotRepository>
             <id>internal.nexus</id>
             <name>Xandar Snapshot Repository</name>
-            <url>http://rasta:8081/nexus/content/repositories/snapshots</url>
+            <url>http://insomniac:8081/nexus/content/repositories/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 
