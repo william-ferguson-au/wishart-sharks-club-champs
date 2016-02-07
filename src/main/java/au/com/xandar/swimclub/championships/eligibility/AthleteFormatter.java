@@ -51,7 +51,7 @@ public final class AthleteFormatter {
 
 		for (EligibilityResult eligibilityResult : processor.getEligibilityResults(athlete)) {
 			
-			if (LOGGER.isInfoEnabled()) LOGGER.info("   " + eligibilityResult);
+			if (LOGGER.isDebugEnabled()) LOGGER.debug("   " + eligibilityResult);
 			if (eligibilityResult.getTotalEligibleSwims() == 0) {
 				continue; // Only print events for which an Athlete has at least one swim.
 			}

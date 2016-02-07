@@ -16,6 +16,7 @@ import java.io.InputStreamReader;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
@@ -48,60 +49,54 @@ public final class TopTimesParser {
         int lineNr = 1;
 		final AthleteCollection athletes = new AthleteCollection();
 		final DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
-		
-		final BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(inputFile)));
-		try {
-			final CSVLineParser lineParser = new CSVLineParser();
-			while (true) {
-				
-				final String line = reader.readLine();
-				if (LOGGER.isDebugEnabled()) LOGGER.debug("Read line :" + line);
-				if (line == null) {
-					break; // EOF so stop
-				}
-				
-				// Use LineParser to tokenize CSV line into ArrayList of elements (or Map of useful elements).
-				final List<String> tokens = lineParser.getParsedContents(line);
 
-				final String name = tokens.get(ATHLETE_NAME);
-				final String eventTime = tokens.get(EVENT_TIME);
-				final String distance = tokens.get(DISTANCE);
-				final String stroke = tokens.get(STROKE);
-				final String dateString = tokens.get(DATE);
+		final List<String> eligCSVLines = readCSVFile(inputFile);
+		LOGGER.info("Read " + eligCSVLines.size() + " lines from file");
 
-                if (LOGGER.isDebugEnabled()) LOGGER.debug("Name='" + name + "' eventTime=" +eventTime + " distance=" + distance + " stroke=" + stroke + " date=" + dateString);
+		final CSVLineParser lineParser = new CSVLineParser();
+		for (final String line: eligCSVLines) {
 
-                if (NO_SHOW.equals(eventTime)) {
-					continue; // Ie NO_SHOWS don't count towards ClubChampionships qualifications
-				}
-				
-				// Every other swim (including disqualifications) do count.
-				final Athlete athlete = athletes.getAthleteEventTally(name);
-				final Event event = new Event(Stroke.valueOf(stroke), Integer.parseInt(distance));
-				final EventTally eventTally = athlete.getEventTally(event);
-				
-				final Date dateSwum;
-				try {
-					dateSwum = dateFormat.parse(dateString);
-				} catch (ParseException e) {
-					throw new RuntimeException("Could not parse date '" + dateString + "'", e);
-				}
-				
-				final double raceTime;
-				if (DID_NOT_FINISH.equals(eventTime) || DISQUALIFIED.equals(eventTime)) {
-					// Count it with a Maximum RaceTime. NB will not be able to parse the time.
-					raceTime = Double.MAX_VALUE;
-				} else {
-					raceTime = this.getTimeInSeconds(lineNr, eventTime);
-				}
-				
-				eventTally.incrementTally(dateSwum, raceTime);
-				
-				if (LOGGER.isDebugEnabled()) LOGGER.debug("Athlete:" + athlete + " event:" + event + " date: " + dateSwum + " raceTime:" + raceTime + "s tally:" + eventTally.getTally());
-                lineNr++;
+			//if (LOGGER.isDebugEnabled()) LOGGER.debug("Processing line :" + line);
+
+			// Use LineParser to tokenize CSV line into ArrayList of elements (or Map of useful elements).
+			final List<String> tokens = lineParser.getParsedContents(line);
+
+			final String name = tokens.get(ATHLETE_NAME);
+			final String eventTime = tokens.get(EVENT_TIME);
+			final String distance = tokens.get(DISTANCE);
+			final String stroke = tokens.get(STROKE);
+			final String dateString = tokens.get(DATE);
+
+			if (LOGGER.isDebugEnabled()) LOGGER.debug("Name='" + name + "' eventTime=" +eventTime + " distance=" + distance + " stroke=" + stroke + " date=" + dateString);
+
+			if (NO_SHOW.equals(eventTime)) {
+				continue; // Ie NO_SHOWS don't count towards ClubChampionships qualifications
 			}
-		} finally {
-			reader.close();
+
+			// Every other swim (including disqualifications) do count.
+			final Athlete athlete = athletes.getAthleteEventTally(name);
+			final Event event = new Event(Stroke.valueOf(stroke), Integer.parseInt(distance));
+			final EventTally eventTally = athlete.getEventTally(event);
+
+			final Date dateSwum;
+			try {
+				dateSwum = dateFormat.parse(dateString);
+			} catch (ParseException e) {
+				throw new RuntimeException("Could not parse date '" + dateString + "'", e);
+			}
+
+			final double raceTime;
+			if (DID_NOT_FINISH.equals(eventTime) || DISQUALIFIED.equals(eventTime)) {
+				// Count it with a Maximum RaceTime. NB will not be able to parse the time.
+				raceTime = Double.MAX_VALUE;
+			} else {
+				raceTime = this.getTimeInSeconds(lineNr, eventTime);
+			}
+
+			eventTally.incrementTally(dateSwum, raceTime);
+
+			if (LOGGER.isDebugEnabled()) LOGGER.debug("Athlete:" + athlete + " event:" + event + " date: " + dateSwum + " raceTime:" + raceTime + "s tally:" + eventTally.getTally());
+			lineNr++;
 		}
 		
 		return athletes.getAthleteEventTallys();
@@ -125,5 +120,22 @@ public final class TopTimesParser {
         } catch (NumberFormatException e) {
             throw new IllegalArgumentException("Error parsing lineNr#" + lineNr + " - could not convert '" + raceTime + "' into seconds", e);
         }
+	}
+
+	private List<String> readCSVFile(File file) throws IOException {
+		final List<String> lines = new ArrayList<String>();
+		final BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file)));
+		try {
+			while (true) {
+				final String line = reader.readLine();
+				if (line == null) {
+					break; // EOF so stop
+				}
+				lines.add(line);
+			}
+		} finally {
+			reader.close();
+		}
+		return lines;
 	}
 }

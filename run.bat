@@ -1,1 +1,1 @@
-java -jar target\SwimClubChampionships-1.3-SNAPSHOT.jar
+java -jar SwimClubChampionships-1.4.jar

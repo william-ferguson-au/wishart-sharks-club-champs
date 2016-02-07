@@ -33,7 +33,7 @@
     </logger>
 -->
     <logger name="au.com.xandar">
-        <level value="debug"/>
+        <level value="info"/>
     </logger>
 
 	<root>
