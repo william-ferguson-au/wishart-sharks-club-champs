@@ -31,11 +31,6 @@ public final class AthleteFormatter {
 	@SuppressWarnings("boxing")
 	public void render(Athlete athlete, EligibilityProcessor processor) {
 
-        if (athlete.getAge() > 18) {
-            if (LOGGER.isInfoEnabled()) LOGGER.info("Athlete: " + athlete + " ineligible because they are older than 18");
-            return;
-        }
-
         final Date assumedJoinDate = athlete.getDateJoined(processor.getSeason());
         if (assumedJoinDate == null) {
             if (LOGGER.isInfoEnabled()) LOGGER.info("Athlete: " + athlete + " ineligible because they have not swum ANY swims this season");

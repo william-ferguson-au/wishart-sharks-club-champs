@@ -45,11 +45,6 @@ public final class ProgramGenerator {
                 continue;
             }
 
-            if (athlete.getAge() > 18) {
-                // Ignore Athletes older than 18.
-                continue;
-            }
-
 			for (final EligibilityResult result : this.processor.getEligibilityResults(athlete)) {
 				
 				// Find (or add) ProgramEvent in ProgramEventCollection.
