@@ -1,1 +1,1 @@
-java -jar SwimClubChampionships-1.4.jar
+java -jar SwimClubChampionships-1.5.jar
