@@ -181,7 +181,8 @@ public final class Athlete implements Comparable<Athlete> {
 			}
 		}
         if (firstSwim == null) {
-            LOGGER.error("Could not determine DateJoined for Athlete : " + this.name + " - events: " + this.events);
+            LOGGER.warn("Could not determine DateJoined for Athlete : " + this.name);
+			LOGGER.debug("Could not determine DateJoined for Athlete : " + this.name + " - events: " + this.events);
         }
 		return firstSwim;
 	}
