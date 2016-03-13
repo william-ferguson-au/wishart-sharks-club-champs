@@ -111,6 +111,13 @@ final class ProgramEvent implements Comparable<ProgramEvent> {
 	public int hashCode() {
 		return this.event.hashCode() + this.ageGroup.hashCode() * 13 + this.gender.hashCode() * 17;
 	}
-    
-	
+
+	@Override
+	public String toString() {
+		return "ProgramEvent{" +
+			"event=" + event +
+			", ageGroup=" + ageGroup +
+			", gender='" + gender + '\'' +
+			'}';
+	}
 }

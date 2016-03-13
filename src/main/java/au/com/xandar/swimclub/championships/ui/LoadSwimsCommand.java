@@ -31,6 +31,10 @@ public final class LoadSwimsCommand {
 		final TopTimesParser parser = new TopTimesParser();
 		final List<Athlete> parsedAthletes = parser.parseSeasonalSpreadSheet(loadFile);
 
+		for (final Athlete athlete : parsedAthletes) {
+			LOGGER.info("Athlete : " + athlete);
+		}
+
 		LOGGER.info("LoadSwimsCommand completed");
 
         return parsedAthletes;
