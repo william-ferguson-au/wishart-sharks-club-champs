@@ -28,7 +28,7 @@ public final class Athlete implements Comparable<Athlete> {
 		}
 	}
 	
-	private final String name;
+	private final String lastNameFirstName;
 	private final Integer age;
 	private String gender;
 	
@@ -42,9 +42,14 @@ public final class Athlete implements Comparable<Athlete> {
             final String ageString = fullName.substring(startBracket + 1, endBracket);
             this.age = Integer.valueOf(ageString);
 
-            this.name = fullName.substring(0, startBracket).trim();
+            final String name = fullName.substring(0, startBracket).trim();
+            final int firstSpaceInName = name.indexOf(" ");
+            final String firstName = name.substring(0, firstSpaceInName);
+			final String lastName = name.substring(firstSpaceInName + 1);
+            lastNameFirstName = lastName + ", " + firstName;
+
             this.gender = fullName.substring(endBracket + 1).trim();
-            if (LOGGER.isDebugEnabled()) LOGGER.debug("Athlete='" + this.name + "' gender='" + this.gender + "' fullName='" + fullName + "'");
+            if (LOGGER.isDebugEnabled()) LOGGER.debug("Athlete='" + this.lastNameFirstName + "' gender='" + this.gender + "' fullName='" + fullName + "'");
         } catch (RuntimeException e) {
             LOGGER.error("Failure creating Athlete - Athlete#fullName='" + fullName + "'");
             throw e;
@@ -52,7 +57,7 @@ public final class Athlete implements Comparable<Athlete> {
 	}
 	
 	public String getAthleteName() {
-		return this.name;
+		return this.lastNameFirstName;
 	}
 	
 	public Integer getAge() {
@@ -105,10 +110,10 @@ public final class Athlete implements Comparable<Athlete> {
 	/**
 	 * @return this Athlete's best time for the given Event.
 	 */
-	public Double getPersonalBest(Event event) {
+	Double getPersonalBest(Event event) {
 		final EventTally tally = this.events.get(event);
 		final Double eventPB = tally.getPersonalBest();
-        if (eventPB == null & event.getDistance().equals(new Integer(25))) {
+        if (eventPB == null & event.getDistance().equals(25)) {
             // No 25m time so return half of the 50m time.
             final EventTally fiftyMetreTally = this.events.get(new Event(event.getStroke(), 50));
             final Double fiftyMetrePB = fiftyMetreTally.getPersonalBest();
@@ -181,14 +186,14 @@ public final class Athlete implements Comparable<Athlete> {
 			}
 		}
         if (firstSwim == null) {
-            LOGGER.warn("Could not determine DateJoined for Athlete : " + this.name);
-			LOGGER.debug("Could not determine DateJoined for Athlete : " + this.name + " - events: " + this.events);
+            LOGGER.warn("Could not determine DateJoined for Athlete : " + this.lastNameFirstName);
+			LOGGER.debug("Could not determine DateJoined for Athlete : " + this.lastNameFirstName + " - events: " + this.events);
         }
 		return firstSwim;
 	}
 	
     public int compareTo(Athlete o) {
-    	return this.name.compareTo(o.name);
+    	return this.lastNameFirstName.compareTo(o.lastNameFirstName);
     }
     
     @Override
@@ -196,16 +201,16 @@ public final class Athlete implements Comparable<Athlete> {
     	if (o == null) return false;
         if (!(o instanceof Athlete)) return false;
     	final Athlete other = (Athlete) o;
-    	return this.name.equals(other.name);
+    	return this.lastNameFirstName.equals(other.lastNameFirstName);
     }
     
     @Override
     public int hashCode() {
-    	return this.name.hashCode();
+    	return this.lastNameFirstName.hashCode();
     }
     
     @Override
     public String toString() {
-    	return this.name;
+    	return this.lastNameFirstName;
     }
 }

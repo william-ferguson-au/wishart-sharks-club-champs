@@ -51,7 +51,7 @@ final class ProgramEvent implements Comparable<ProgramEvent> {
 	}
 	
 	public List<EligibilityResult> getEligibilityResults() {
-		return this.eligibilityResults;
+		return new ArrayList<EligibilityResult>(this.eligibilityResults);
 	}
 	
 	/**

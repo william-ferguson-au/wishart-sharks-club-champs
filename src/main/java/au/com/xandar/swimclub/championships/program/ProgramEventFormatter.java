@@ -2,6 +2,9 @@ package au.com.xandar.swimclub.championships.program;
 
 import java.io.PrintStream;
 import java.io.PrintWriter;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
 
 import au.com.xandar.swimclub.championships.Athlete;
 import au.com.xandar.swimclub.championships.EligibilityResult;
@@ -35,8 +38,17 @@ final class ProgramEventFormatter {
 				event.getAgeGroup(),
 				event.getGender());
         this.writer.println();
-		
-		for (EligibilityResult eligibilityResult : event.getEligibilityResults()) {
+
+        final List<EligibilityResult> eligibilityResults = event.getEligibilityResults();
+		Collections.sort(eligibilityResults, new Comparator<EligibilityResult>() {
+			@Override
+			public int compare(EligibilityResult o1, EligibilityResult o2) {
+				// Order by last name, first name.
+
+				return 0;
+			}
+		});
+		for (EligibilityResult eligibilityResult : eligibilityResults) {
 			
 			if (eligibilityResult.getTotalEligibleSwims() == 0) {
 				continue; // Only print events for which an Athlete has at least one swim.
