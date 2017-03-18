@@ -5,12 +5,12 @@
 	
 	<groupId>au.com.wishartswimclub</groupId>
 	<artifactId>SwimClubChampionships</artifactId>
-	<version>1.8-SNAPSHOT</version>
+	<version>1.8</version>
 	
     <scm>
         <connection>scm:git:git@github.com:william-ferguson-au/wishart-sharks-club-champs.git</connection>
         <developerConnection>scm:git:git@github.com:william-ferguson-au/wishart-sharks-club-champs.git</developerConnection>
-      <tag>SwimClubChampionships-1.4</tag>
+      <tag>SwimClubChampionships-1.8</tag>
   </scm>
 
     <distributionManagement>
