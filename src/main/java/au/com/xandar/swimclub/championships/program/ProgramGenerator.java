@@ -58,7 +58,7 @@ public final class ProgramGenerator {
 		// Open outputFile ready for writing.
 		final PrintStream outStream = new PrintStream(new FileOutputStream(outputFile));
 		final Collection<ProgramEvent> programEvents = programEventCollection.getProgramEvents();
-		LOGGER.info("Nr ProgramEvents = " + programEvents);
+		LOGGER.info("Nr ProgramEvents = " + programEvents.size());
 		
 		// Iterate over ProgramEvents and print each Event.
 		outStream.printf("Club Championships eligibility based on %s", inputFile.getName());
@@ -67,6 +67,7 @@ public final class ProgramGenerator {
 		final ProgramEventFormatter formatter = new ProgramEventFormatter(outStream);
 		for (final ProgramEvent programEvent : programEvents) {
 			formatter.render(programEvent);
+			LOGGER.info(programEvent);
 		}
 		outStream.close();
 		LOGGER.info("ProgramEventsReport complete");

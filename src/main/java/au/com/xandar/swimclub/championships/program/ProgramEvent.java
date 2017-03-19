@@ -53,6 +53,15 @@ final class ProgramEvent implements Comparable<ProgramEvent> {
 	public List<EligibilityResult> getEligibilityResults() {
 		return new ArrayList<EligibilityResult>(this.eligibilityResults);
 	}
+
+	public boolean hadNoSwimsForSeason() {
+		for (final EligibilityResult result : this.eligibilityResults) {
+			if (result.getTotalEligibleSwims() > 0) {
+				return false;
+			}
+		}
+		return true;
+	}
 	
 	/**
 	 * @return true if at least one eligible Athlete.

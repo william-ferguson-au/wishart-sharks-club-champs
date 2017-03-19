@@ -26,8 +26,8 @@ final class ProgramEventFormatter {
 	@SuppressWarnings("boxing")
 	public void render(ProgramEvent event) {
 		
-		if (!event.hasEligibleAthletes()) {
-			return; // If no eligible Athlete then don't print event.
+		if (event.hadNoSwimsForSeason()) {
+			return; // If no one has swum ANY races for this event this season then don't print event.
 		}
 
 		int athleteCounter = 1;
